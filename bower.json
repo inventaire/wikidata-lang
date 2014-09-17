@@ -1,0 +1,17 @@
+{
+  "name": "lang",
+  "main": "lang.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/maxlath/lang",
+  "authors": [
+    "maxlath" 
+  ],
+  "description": "simple global object for languages code",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "lang"
+  ],
+  "license": "MIT"
+}
