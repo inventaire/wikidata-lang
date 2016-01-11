@@ -1,6 +1,6 @@
 {
   "name": "wikidata-lang",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "an index of 183 languages accessible either by their 2-letters languages code or Wikidata Qid",
   "main": "src/index.js",
   "scripts": {
