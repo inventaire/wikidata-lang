@@ -415,7 +415,8 @@ module.exports={
   "ie": {
     "code": "ie",
     "label": "Interlingue",
-    "native": "Interlingue"
+    "native": "Interlingue",
+    "wd": "Q35850"
   },
   "ig": {
     "code": "ig",
@@ -438,7 +439,8 @@ module.exports={
   "io": {
     "code": "io",
     "label": "Ido",
-    "native": "Ido"
+    "native": "Ido",
+    "wd": "Q35224"
   },
   "is": {
     "code": "is",
@@ -491,7 +493,8 @@ module.exports={
   "kj": {
     "code": "kj",
     "label": "Kuanyama",
-    "native": "Kuanyama"
+    "native": "Kuanyama",
+    "wd":"Q1405077"
   },
   "kk": {
     "code": "kk",
@@ -526,7 +529,8 @@ module.exports={
   "kr": {
     "code": "kr",
     "label": "Kanuri",
-    "native": "Kanuri"
+    "native": "Kanuri",
+    "wd": "Q36094"
   },
   "ks": {
     "code": "ks",
@@ -561,7 +565,8 @@ module.exports={
   "la": {
     "code": "la",
     "label": "Latin",
-    "native": "Latina"
+    "native": "Latina",
+    "wd": "Q397"
   },
   "lb": {
     "code": "lb",
@@ -572,7 +577,8 @@ module.exports={
   "lg": {
     "code": "lg",
     "label": "Ganda",
-    "native": "Luganda"
+    "native": "Luganda",
+    "wd": "Q33368"
   },
   "li": {
     "code": "li",
@@ -643,7 +649,8 @@ module.exports={
   "mo": {
     "code": "mo",
     "label": "Moldovan",
-    "native": "Moldovenească"
+    "native": "Moldovenească",
+    "wd":"Q36392"
   },
   "mr": {
     "code": "mr",
@@ -690,7 +697,8 @@ module.exports={
   "ng": {
     "code": "ng",
     "label": "Ndonga",
-    "native": "Oshiwambo"
+    "native": "Oshiwambo",
+    "wd": "Q33900"
   },
   "nl": {
     "code": "nl",
@@ -701,7 +709,8 @@ module.exports={
   "nn": {
     "code": "nn",
     "label": "Norwegian Nynorsk",
-    "native": "Norsk (nynorsk)"
+    "native": "Norsk (nynorsk)",
+    "wd": "Q25164"
   },
   "no": {
     "code": "no",
@@ -820,12 +829,14 @@ module.exports={
   "rw": {
     "code": "rw",
     "label": "Rwandi",
-    "native": "Kinyarwandi"
+    "native": "Kinyarwandi",
+    "wd": "Q33573"
   },
   "sa": {
     "code": "sa",
     "label": "Sanskrit",
-    "native": "संस्कृतम्"
+    "native": "संस्कृतम्",
+    "wd": "Q11059"
   },
   "sc": {
     "code": "sc",
@@ -854,7 +865,8 @@ module.exports={
   "sh": {
     "code": "sh",
     "label": "Serbo-Croatian",
-    "native": "Srpskohrvatski / Српскохрватски"
+    "native": "Srpskohrvatski / Српскохрватски",
+    "wd": "Q9301"
   },
   "si": {
     "code": "si",
@@ -997,7 +1009,8 @@ module.exports={
   "ts": {
     "code": "ts",
     "label": "Tsonga",
-    "native": "Xitsonga"
+    "native": "Xitsonga",
+    "wd": "Q34327"
   },
   "tt": {
     "code": "tt",
@@ -1062,7 +1075,8 @@ module.exports={
   "wa": {
     "code": "wa",
     "label": "Walloon",
-    "native": "Walon"
+    "native": "Walon",
+    "wd": "Q34219"
   },
   "wo": {
     "code": "wo",
