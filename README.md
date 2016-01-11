@@ -15,13 +15,23 @@ For each language, it returns an object that looks like this:
 where `wd` stands for [wikidata](https://wikidata.org) and Q8798 for [wikidata.org/entity/Q8798](https://wikidata.org/entity/Q8798)
 
 
-## How-To
-first, require the lib
+## Install
+
+### via npm
+in your terminal
+```sh
+npm install wikidata-lang --save
+```
+in your JS code
 ```javascript
 var wdLang = require('wikidata-lang')
 ```
 
-then, the index can be accessed in two ways:
+### classic browser import
+include [`/dist/index.js`](https://raw.githubusercontent.com/inventaire/wikidata-lang/master/dist/index.js) in your code, then the lib will be accessible from `window.wdLang`
+
+## How-To
+the index can be accessed in two ways:
 
 - by language code
 ```javascript
