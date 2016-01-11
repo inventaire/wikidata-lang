@@ -1,0 +1,27 @@
+{
+  "name": "wikidata-lang",
+  "version": "1.0.0",
+  "description": "a map from 2 letters language code to Wikidata Qid, or English and Native language label",
+  "main": "lang.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify lang.json -s Lang > lang.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlath/wikidata-lang.git"
+  },
+  "keywords": [
+    "lang",
+    "wikidata"
+  ],
+  "author": "maxlath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxlath/wikidata-lang/issues"
+  },
+  "homepage": "https://github.com/maxlath/wikidata-lang#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0"
+  }
+}
