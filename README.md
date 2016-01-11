@@ -62,7 +62,7 @@ var label = entity.labels[myLangCode] || entity.labels[originalLangCode] || en
 ```
 
 ## Nota Bene
-2-letters language codes are Wikimedia language codes, which fits mostly [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (out of some exceptions?)
+2-letters language codes are [Wikimedia language codes](https://www.wikidata.org/wiki/Property:P424), which fits mostly [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (out of some exceptions?)
 
 ## Licence
 MIT
