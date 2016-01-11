@@ -18,7 +18,7 @@ where `wd` stands for [wikidata](https://wikidata.org) and Q8798 for [wikidata.o
 ## How-To
 first, require the lib
 ```javascript
-var wdLang = require('wikidata-lang');
+var wdLang = require('wikidata-lang')
 ```
 
 then, the index can be accessed in two ways:
@@ -33,6 +33,22 @@ wdLang.byCode.uk
 ```javascript
 wdLang.byWdId.Q8798
 // => { "code": "uk", "label": "Ukrainian", "native": "Українська", "wd": "Q8798" }
+```
+
+## But why?!?
+When you deal with Wikidata entities from different countries (such as books or authors in the case of [inventaire](http://github.com/inventaire/inventaire)), you often find entities for which there is no label in the initialy desired language. To decide which language to use as fallback, you may wish to use the entities original language properties:
+```
+P103: native language (for humans/authors)
+P364: original language of work (for books)
+```
+Those properties use entities as values, and that's where this lib becomes useful: you want to answer the question **what is the 2 letters language code associated with this original language** `Qxxx` **?**
+
+(ex: [Q188](https://wikidata.org/entity/Q188), [Q1321](https://wikidata.org/entity/Q1321), etc.).
+```javascript
+var myLangCode = 'fr'
+var originalLang = 'Q1321'
+var originalLangCode = wdLang.byWdId[originalLang]
+var label = entity.labels[myLangCode] || entity.labels[originalLangCode] || entity.labels['en']
 ```
 
 ## Nota Bene
