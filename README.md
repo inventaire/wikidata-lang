@@ -5,12 +5,12 @@ An index of 183 languages accessible either by their 2-letters language code or 
 
 For each language, it returns an object that looks like this:
 ```json
-  "uk": {
-    "code": "uk",
-    "label": "Ukrainian",
-    "native": "Українська",
-    "wd": "Q8798"
-  }
+{
+  "code": "uk",
+  "label": "Ukrainian",
+  "native": "Українська",
+  "wd": "Q8798"
+}
 ```
 where `wd` stands for [wikidata](https://wikidata.org) and Q8798 for [wikidata.org/entity/Q8798](https://wikidata.org/entity/Q8798)
 
