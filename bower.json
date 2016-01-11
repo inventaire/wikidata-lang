@@ -1,17 +1,18 @@
 {
-  "name": "lang",
-  "main": "lang.js",
-  "version": "0.0.0",
-  "homepage": "https://github.com/maxlath/lang",
+  "name": "wikidata-lang",
+  "main": "dist/index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/maxlath/wikidata-lang",
   "authors": [
-    "maxlath" 
+    "maxlath"
   ],
-  "description": "simple global object for languages code",
+  "description": "an index of 183 languages accessible either by their 2-letters languages code or Wikidata Qid",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "lang"
+    "lang",
+    "wikidata"
   ],
   "license": "MIT"
 }

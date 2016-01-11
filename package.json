@@ -1,11 +1,12 @@
 {
   "name": "wikidata-lang",
   "version": "1.0.0",
-  "description": "a map from 2 letters language code to Wikidata Qid, or English and Native language label",
-  "main": "lang.json",
+  "description": "an index of 183 languages accessible either by their 2-letters languages code or Wikidata Qid",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "browserify lang.json -s Lang > lang.js"
+    "build": "coffee -c src/index.coffee && browserify src/index.js -s Lang > dist/index.js",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/maxlath/wikidata-lang#readme",
   "devDependencies": {
-    "browserify": "^13.0.0"
+    "browserify": "^13.0.0",
+    "coffee-script": "^1.10.0"
   }
 }
