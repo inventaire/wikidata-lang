@@ -1,7 +1,8 @@
 wikidata-lang
 ====
 
-An index of 183 languages accessible either by their 2-letters languages code (ISO 639-1 code) or Wikidata Qid.
+An index of 183 languages accessible either by their 2-letters language code or Wikidata Qid.
+
 For each language, it returns an object that looks like this:
 ```json
   "uk": {
@@ -33,3 +34,9 @@ wdLang.byCode.uk
 wdLang.byWdId.Q8798
 // => { "code": "uk", "label": "Ukrainian", "native": "Українська", "wd": "Q8798" }
 ```
+
+## Nota Bene
+2-letters language codes are Wikimedia language codes, which fits mostly [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), out of some exceptions. ex: (Moldovan)[https://wikidata.org/entity/Q36392]
+
+## Licence
+MIT
