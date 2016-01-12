@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script/register",
-    "build": "coffee -c src/index.coffee && browserify src/index.js -s wdLang > dist/index.js",
+    "build": "./scripts/build",
     "prepublish": "npm test && npm run build"
   },
   "repository": {
@@ -26,6 +26,7 @@
     "browserify": "^13.0.0",
     "coffee-script": "^1.10.0",
     "mocha": "^2.3.4",
-    "should": "^8.1.0"
+    "should": "^8.1.0",
+    "uglifyjs": "^2.4.10"
   }
 }
