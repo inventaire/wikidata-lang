@@ -36,9 +36,6 @@ in your JS code
 var wdLang = require('wikidata-lang')
 ```
 
-### classic browser import
-include [`/dist/index.js`](https://raw.githubusercontent.com/inventaire/wikidata-lang/master/dist/index.js) in your code, then the lib will be accessible from `window.wdLang`
-
 ## How-To
 the index can be accessed in two ways:
 

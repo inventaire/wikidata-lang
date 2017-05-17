@@ -1,7 +1,0 @@
-echo "converting coffeescript..." &&
-coffee -c src/index.coffee &&
-echo "browserifying..." &&
-browserify src/index.js -s wdLang > dist/index.js &&
-echo "uglifying..." &&
-uglifyjs dist/index.js > dist/index.min.js
-echo "done building!"
