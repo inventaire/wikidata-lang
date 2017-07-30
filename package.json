@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxlath/wikidata-lang.git"
+    "url": "git+https://github.com/inventaire/wikidata-lang.git"
   },
   "keywords": [
     "lang",
@@ -18,9 +18,9 @@
   "author": "maxlath",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxlath/wikidata-lang/issues"
+    "url": "https://github.com/inventaire/wikidata-lang/issues"
   },
-  "homepage": "https://github.com/maxlath/wikidata-lang#readme",
+  "homepage": "https://github.com/inventaire/wikidata-lang#readme",
   "devDependencies": {
     "browserify": "^13.0.0",
     "mocha": "^2.3.4",
