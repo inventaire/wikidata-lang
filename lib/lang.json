@@ -62,7 +62,7 @@
   "az": {
     "code": "az",
     "label": "Azerbaijani",
-    "native": "Azərbaycanca / آذربايجان",
+    "native": "Azərbaycanca",
     "wd": "Q9292"
   },
   "ba": {
@@ -110,7 +110,7 @@
   "bo": {
     "code": "bo",
     "label": "Tibetan",
-    "native": "བོད་ཡིག / Bod skad",
+    "native": "བོད་ཡིག",
     "wd": "Q34271"
   },
   "br": {
@@ -163,8 +163,8 @@
   },
   "cu": {
     "code": "cu",
-    "label": "Old Church Slavonic / Old Bulgarian",
-    "native": "словѣньскъ / slověnĭskŭ",
+    "label": "Old Church Slavonic",
+    "native": "словѣньскъ",
     "wd": "Q35499"
   },
   "cv": {
@@ -404,7 +404,7 @@
   "ii": {
     "code": "ii",
     "label": "Sichuan Yi",
-    "native": "ꆇꉙ / 四川彝语",
+    "native": "四川彝语",
     "wd": "Q34235"
   },
   "ik": {
@@ -512,13 +512,13 @@
   "ks": {
     "code": "ks",
     "label": "Kashmiri",
-    "native": "कश्मीरी / كشميري",
+    "native": "कश्मीरी",
     "wd": "Q33552"
   },
   "ku": {
     "code": "ku",
     "label": "Kurdish",
-    "native": "Kurdî / كوردی",
+    "native": "كوردی",
     "wd": "Q36368"
   },
   "kv": {
@@ -536,7 +536,7 @@
   "ky": {
     "code": "ky",
     "label": "Kirghiz",
-    "native": "Kırgızca / Кыргызча",
+    "native": "Kırgızca",
     "wd": "Q9255"
   },
   "la": {
@@ -572,7 +572,7 @@
   "lo": {
     "code": "lo",
     "label": "Laotian",
-    "native": "ລາວ / Pha xa lao",
+    "native": "ລາວ",
     "wd": "Q9211"
   },
   "lt": {
@@ -596,7 +596,7 @@
   "mh": {
     "code": "mh",
     "label": "Marshallese",
-    "native": "Kajin Majel / Ebon",
+    "native": "Kajin Majel",
     "wd": "Q36280"
   },
   "mi": {
@@ -692,7 +692,7 @@
   "no": {
     "code": "no",
     "label": "Norwegian",
-    "native": "Norsk (bokmål / riksmål)",
+    "native": "Norsk",
     "wd": "Q9043"
   },
   "nr": {
@@ -722,7 +722,7 @@
   "oj": {
     "code": "oj",
     "label": "Ojibwa",
-    "native": "ᐊᓂᔑᓈᐯᒧᐎᓐ / Anishinaabemowin",
+    "native": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
     "wd": "Q33875"
   },
   "om": {
@@ -739,20 +739,20 @@
   },
   "os": {
     "code": "os",
-    "label": "Ossetian / Ossetic",
+    "label": "Ossetian",
     "native": "Иронау",
     "wd": "Q33968"
   },
   "pa": {
     "code": "pa",
-    "label": "Panjabi / Punjabi",
-    "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي",
+    "label": "Panjabi",
+    "native": "ਪੰਜਾਬੀ",
     "wd": "Q58635"
   },
   "pi": {
     "code": "pi",
     "label": "Pali",
-    "native": "Pāli / पाऴि",
+    "native": "Pāli",
     "wd": "Q36727"
   },
   "pl": {
@@ -842,7 +842,7 @@
   "sh": {
     "code": "sh",
     "label": "Serbo-Croatian",
-    "native": "Srpskohrvatski / Српскохрватски",
+    "native": "Srpskohrvatski",
     "wd": "Q9301"
   },
   "si": {
@@ -944,7 +944,7 @@
   "th": {
     "code": "th",
     "label": "Thai",
-    "native": "ไทย / Phasa Thai",
+    "native": "ไทย",
     "wd": "Q9217"
   },
   "ti": {
@@ -956,12 +956,12 @@
   "tk": {
     "code": "tk",
     "label": "Turkmen",
-    "native": "Туркмен / تركمن",
+    "native": "Туркмен",
     "wd": "Q9267"
   },
   "tl": {
     "code": "tl",
-    "label": "Tagalog / Filipino",
+    "label": "Tagalog",
     "native": "Tagalog",
     "wd": "Q34057"
   },
@@ -1010,7 +1010,7 @@
   "ug": {
     "code": "ug",
     "label": "Uyghur",
-    "native": "Uyƣurqə / ئۇيغۇرچە",
+    "native": "Uyƣurqə",
     "wd": "Q13263"
   },
   "uk": {
@@ -1082,7 +1082,7 @@
   "za": {
     "code": "za",
     "label": "Zhuang",
-    "native": "Cuengh / Tôô / 壮语",
+    "native": "Cuengh",
     "wd": "Q13216"
   },
   "zh": {
