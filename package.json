@@ -1,13 +1,15 @@
 {
   "name": "wikidata-lang",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "an index of 183 languages accessible either by their 2-letters languages code or Wikidata Qid",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha",
     "prepublish": "npm test"
   },
-  "files": [ "lib" ],
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inventaire/wikidata-lang.git"
