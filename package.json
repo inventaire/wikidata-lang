@@ -7,6 +7,7 @@
     "test": "mocha",
     "prepublish": "npm test"
   },
+  "files": [ "lib" ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inventaire/wikidata-lang.git"
