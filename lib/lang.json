@@ -659,6 +659,12 @@
     "native": "Dorerin Naoero",
     "wd": "Q13307"
   },
+  "nb": {
+    "code": "nb",
+    "label": "Norwegian Bokmål",
+    "native": "Bokmål",
+    "wd": "Q25167"
+  },
   "nd": {
     "code": "nd",
     "label": "North Ndebele",
