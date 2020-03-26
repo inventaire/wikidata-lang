@@ -1,7 +1,7 @@
 {
   "name": "wikidata-lang",
   "version": "2.0.10",
-  "description": "an index of 183 languages accessible either by their 2-letters languages code or Wikidata Qid",
+  "description": "mappings between 2-letters language codes (ISO 639-1) and Wikidata ids",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha",
@@ -16,7 +16,9 @@
   },
   "keywords": [
     "lang",
-    "wikidata"
+    "wikidata",
+    "ISO 639-1",
+    "language code"
   ],
   "author": "maxlath",
   "license": "MIT",
@@ -27,5 +29,10 @@
   "devDependencies": {
     "mocha": "^7.0.0",
     "should": "^13.2.3"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {}
 }
