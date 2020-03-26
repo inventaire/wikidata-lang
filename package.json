@@ -1,6 +1,6 @@
 {
   "name": "wikidata-lang",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "mappings between 2-letters language codes (ISO 639-1) and Wikidata ids",
   "main": "lib/index.js",
   "scripts": {
