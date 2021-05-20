@@ -4,8 +4,10 @@
   "description": "mappings between 2-letters language codes (ISO 639-1) and Wikidata ids",
   "main": "lib/index.js",
   "scripts": {
+    "build": "./scripts/build.js",
     "test": "mocha",
-    "prepublish": "npm test"
+    "prepublish": "npm test",
+    "update-data": "./scripts/update_data.sh"
   },
   "files": [
     "lib"
@@ -33,6 +35,5 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  },
-  "dependencies": {}
+  }
 }

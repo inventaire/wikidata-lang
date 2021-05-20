@@ -3,22 +3,17 @@ require('should')
 const index = require('../lib/index')
 
 describe('indexes', () => {
-  it('should match', (done) => {
-    for (let key in index.byCode) {
-      value = index.byCode[key]
-      value.should.equal(index.byWdId[value.wd])
+  it('should match', () => {
+    for (const code in index.byCode) {
+      for (const langData of index.byCode[code]) {
+        langData.should.equal(index.byWdId[langData.wd])
+      }
     }
-
-    const a = Object.keys(index.byCode)
-    const b = Object.keys(index.byWdId)
-    a.length.should.equal(b.length)
-    done()
   })
 
-  it('should return the same object from both indexes', (done) => {
-    const a = index.byCode.uk
+  it('should return the same object from both indexes', () => {
+    const a = index.byCode.uk[0]
     const b = index.byWdId.Q8798
     a.should.equal(b)
-    done()
   })
 })

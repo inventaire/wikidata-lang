@@ -1,0 +1,16 @@
+SELECT ?wd ?wmCode ?iso6391 ?iso6392 ?iso6393 ?iso6396 ?native ?label {
+  VALUES (?language_type) { (wd:Q34770) (wd:Q25295) }
+  ?wd wdt:P31/wdt:P279* ?language_type
+
+  { ?wd wdt:P218 ?iso6391 . } UNION
+  { ?wd wdt:P219 ?iso6392 . } UNION
+  { ?wd wdt:P220 ?iso6393 . } UNION
+  { ?wd wdt:P221 ?iso6396 . }
+
+  OPTIONAL { ?wd wdt:P424 ?wmCode . }
+  OPTIONAL { ?wd wdt:P1705 ?native }
+  OPTIONAL {
+    ?wd rdfs:label ?label
+    FILTER(LANG(?label) = 'en')
+  }
+}
