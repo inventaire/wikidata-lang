@@ -7,7 +7,8 @@
     "build": "./scripts/build.js",
     "test": "mocha",
     "prepublish": "npm test",
-    "update-data": "./scripts/update_data.sh"
+    "update-data": "./scripts/update_data.sh",
+    "update-toc": "npx doctoc README.md"
   },
   "files": [
     "lib",
