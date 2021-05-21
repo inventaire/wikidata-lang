@@ -1,7 +1,7 @@
 {
   "name": "wikidata-lang",
   "version": "3.0.0",
-  "description": "mappings between 2-letters language codes (ISO 639-1) and Wikidata ids",
+  "description": "A database of languages and their Wikidata id, Wikimedia language code, ISO 639-1, ISO 639-2, ISO 639-3, ISO 639-6 codes",
   "main": "by_wd_id.js",
   "scripts": {
     "build": "./scripts/build.js",

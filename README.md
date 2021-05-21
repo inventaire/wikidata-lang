@@ -1,6 +1,9 @@
 # wikidata-lang
 
-A database of languages indexed by their [wikidata](https://wikidata.org) id, Wikimedia language code, ISO 639-1 code, ISO 639-2 code, ISO 639-3 code, ISO 639-6 code. This database is based on the result of a [SPARQL query executed on query.wikidata.org](https://github.com/inventaire/wikidata-lang/blob/master/scripts/languages_data.rq), so the data is as good as Wikidata is: in case of an error, please update Wikidata and request an update of this database in the [issues](https://github.com/inventaire/wikidata-lang/issues).
+A database of languages and their [wikidata](https://wikidata.org) id, Wikimedia language code, ISO 639-1, ISO 639-2, ISO 639-3, and ISO 639-6 codes.
+A database of languages and their [Wikidata](https://www.wikidata.org) id, [Wikimedia language code](https://www.wikidata.org/wiki/Property:P424), [ISO 639-1](https://www.wikidata.org/wiki/Property:P218), [ISO 639-2](https://www.wikidata.org/wiki/Property:P219), [ISO 639-3](https://www.wikidata.org/wiki/Property:P220), [ISO 639-6](https://www.wikidata.org/wiki/Property:P211) codes
+
+This database is based on the result of a [SPARQL query executed on query.wikidata.org](https://github.com/inventaire/wikidata-lang/blob/master/scripts/languages_data.rq), so the data is as good as Wikidata is: in case of an error, please update Wikidata and request an update of this database in the [issues](https://github.com/inventaire/wikidata-lang/issues).
 
 For each language, the data object looks like this:
 ```js
