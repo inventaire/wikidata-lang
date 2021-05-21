@@ -28,5 +28,5 @@ for (const result of results) {
 const languages = Object.values(byWdId)
 
 writeFile('./data/languages.json', JSON.stringify(languages))
-.then(() => console.log('languages data saved'))
+.then(() => console.log('rebuilt languages data'))
 .catch(console.error)

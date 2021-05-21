@@ -4,16 +4,17 @@
   "description": "A database of languages and their Wikidata id, Wikimedia language code, ISO 639-1, ISO 639-2, ISO 639-3, ISO 639-6 codes",
   "main": "by_wd_id.js",
   "scripts": {
-    "build": "./scripts/build.js",
-    "test": "mocha",
+    "build": "./scripts/build_languages_array.js && ./scripts/build_conversion_mappings.js",
+    "postpublish": "git push --tags",
     "prepublish": "npm test",
+    "test": "mocha",
     "update-data": "./scripts/update_data.sh",
     "update-toc": "npx doctoc README.md"
   },
   "files": [
-    "lib",
     "data",
-    "*.js"
+    "lib",
+    "mappings"
   ],
   "repository": {
     "type": "git",

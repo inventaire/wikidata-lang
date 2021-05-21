@@ -50,13 +50,13 @@ In your JS code:
 const languagesByWdId = require('wikidata-lang')
 
 // For indexes by other available codes, require the desired module:
-const languagesByIso6391Code = require('wikidata-lang/by_iso_639_1_code')
-const languagesByIso6392Code = require('wikidata-lang/by_iso_639_2_code')
-const languagesByIso6393Code = require('wikidata-lang/by_iso_639_3_code')
-const languagesByIso6396Code = require('wikidata-lang/by_iso_639_6_code')
-const languagesByWmCode = require('wikidata-lang/by_wm_code')
+const languagesByIso6391Code = require('wikidata-lang/indexes/by_iso_639_1_code')
+const languagesByIso6392Code = require('wikidata-lang/indexes/by_iso_639_2_code')
+const languagesByIso6393Code = require('wikidata-lang/indexes/by_iso_639_3_code')
+const languagesByIso6396Code = require('wikidata-lang/indexes/by_iso_639_6_code')
+const languagesByWmCode = require('wikidata-lang/indexes/by_wm_code')
 // Note that you can also use an index regrouping all of the above
-const languagesByCode = require('wikidata-lang/by_code')
+const languagesByAnyCode = require('wikidata-lang/indexes/by_any_code')
 
 // The Wikidata id index returns single language data objects
 languagesByWdId.Q8798
@@ -69,50 +69,47 @@ languagesByIso6391Code.uk[0]
 ```
 
 ### Convert between codes
-Conversion tables can be build from the language data objects described above, but you can also use the pre-built ones available:
+Conversion mappings can be build from the language data objects described above, but you can also use the pre-built ones:
 ```js
-const wdIdByWmCode = require('wikidata-lang/wd_id_by_wm_code')
+const wdIdByWmCode = require('wikidata-lang/mappings/wd_id_by_wm_code.json')
 wdIdByWmCode['zh-min-nan'] // => 'Q36495'
 
-const wdIdByIso6391Code = require('wikidata-lang/wd_id_by_iso_639_1_code')
+const wdIdByIso6391Code = require('wikidata-lang/mappings/wd_id_by_iso_639_1_code.json')
 wdIdByIso6391Code['cr'] // => 'Q33390'
 
-const wdIdByIso6392Code = require('wikidata-lang/wd_id_by_iso_639_2_code')
+const wdIdByIso6392Code = require('wikidata-lang/mappings/wd_id_by_iso_639_2_code.json')
 wdIdByIso6392Code['kzu'] // => 'Q6380723'
 
-const wdIdByIso6393Code = require('wikidata-lang/wd_id_by_iso_639_3_code')
+const wdIdByIso6393Code = require('wikidata-lang/mappings/wd_id_by_iso_639_3_code.json')
 wdIdByIso6393Code['acc'] // => 'Q16110361'
 
-const wdIdByIso6396Code = require('wikidata-lang/wd_id_by_iso_639_6_code')
+const wdIdByIso6396Code = require('wikidata-lang/mappings/wd_id_by_iso_639_6_code.json')
 wdIdByIso6396Code['jah'] // => 'Q2742661'
 
-const wmCodeByWdId = require('wikidata-lang/wm_code_by_wd_id')
+const wmCodeByWdId = require('wikidata-lang/mappings/wm_code_by_wd_id.json')
 wmCodeByWdId['Q32762'] // => 'fiu-vro'
 
 // This one seems useless, as ISO 639-1 seem to always be equivalent to their corresponding Wikimedia language code
-const wmCodeByIso6391Code = require('wikidata-lang/wm_code_by_iso_639_1_code')
+const wmCodeByIso6391Code = require('wikidata-lang/mappings/wm_code_by_iso_639_1_code.json')
 wmCodeByIso6391Code['id'] // => 'id'
 
-const wmCodeByIso6392Code = require('wikidata-lang/wm_code_by_iso_639_2_code')
+const wmCodeByIso6392Code = require('wikidata-lang/mappings/wm_code_by_iso_639_2_code.json')
 wmCodeByIso6391Code['zza'] // => 'diq'
 
-const wmCodeByIso6393Code = require('wikidata-lang/wm_code_by_iso_639_3_code')
+const wmCodeByIso6393Code = require('wikidata-lang/mappings/wm_code_by_iso_639_3_code.json')
 wmCodeByIso6391Code['yue'] // => 'zh-yue'
 
-const wmCodeByIso6396Code = require('wikidata-lang/wm_code_by_iso_639_6_code')
+const wmCodeByIso6396Code = require('wikidata-lang/mappings/wm_code_by_iso_639_6_code.json')
 wmCodeByIso6391Code['yyef'] // => 'zh-yue'
+
+// etc.
 ```
+See the [`mappings` folder](https://github.com/inventaire/wikidata-lang/tree/master/mappings) for a full list of available mappings.
 
 **NB**: When several values are available for a given key, no value is added to the conversion table for that key.
 
-If you need a conversion table that isn't there, you can either request it in the [issues](https://github.com/inventaire/wikidata-lang/issues) or build it yourself:
-```js
-const iso6392CodeByIso6393Code  = require('./lib/build_conversion_map')({
-  // Possible codes: wd, wmCode, iso6391, iso6392, iso6393, iso6396
-  keyCodeName: 'iso6393',
-  valueCodeName: 'iso6392',
-})
-```
+## Examples
+See [how we use it in Inventaire](https://github.com/inventaire/inventaire/search?q=wikidata-lang&type=code)
 
 ## License
 MIT
