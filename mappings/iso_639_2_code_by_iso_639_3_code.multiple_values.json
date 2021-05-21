@@ -1,0 +1,82 @@
+{
+  "bod": [
+    "tib",
+    "bod"
+  ],
+  "ces": [
+    "ces",
+    "cze"
+  ],
+  "cym": [
+    "cym",
+    "wel"
+  ],
+  "deu": [
+    "ger",
+    "deu"
+  ],
+  "ell": [
+    "ell",
+    "gre"
+  ],
+  "eus": [
+    "baq",
+    "eus"
+  ],
+  "fas": [
+    "fas",
+    "per"
+  ],
+  "fra": [
+    "fra",
+    "fre"
+  ],
+  "hye": [
+    "arm",
+    "hye"
+  ],
+  "isl": [
+    "ice",
+    "isl"
+  ],
+  "kat": [
+    "geo",
+    "kat"
+  ],
+  "mkd": [
+    "mkd",
+    "mac"
+  ],
+  "mri": [
+    "mao",
+    "mri"
+  ],
+  "msa": [
+    "msa",
+    "may"
+  ],
+  "mya": [
+    "mya",
+    "bur"
+  ],
+  "nld": [
+    "dut",
+    "nld"
+  ],
+  "ron": [
+    "rum",
+    "ron"
+  ],
+  "slk": [
+    "slk",
+    "slo"
+  ],
+  "sqi": [
+    "alb",
+    "sqi"
+  ],
+  "zho": [
+    "chi",
+    "zho"
+  ]
+}

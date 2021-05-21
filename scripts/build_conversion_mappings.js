@@ -19,9 +19,12 @@ const buildAndSaveCodeConversionMappings = keyCodeName => {
 
 const buildAndSaveCodeConversionMapping = keyCodeName => valueCodeName => {
   if (keyCodeName === valueCodeName) return
-  const mapping = buildConversionMapping({ keyCodeName, valueCodeName })
-  const filename = `./mappings/${codesFilenames[valueCodeName]}_by_${codesFilenames[keyCodeName]}.json`
-  return writeFile(filename, JSON.stringify(mapping, null, 2))
+  const { mapping, multipleValues } = buildConversionMapping({ keyCodeName, valueCodeName })
+  const base = `${codesFilenames[valueCodeName]}_by_${codesFilenames[keyCodeName]}`
+  return Promise.all([
+    writeFile(`./mappings/${base}.json`, JSON.stringify(mapping, null, 2)),
+    writeFile(`./mappings/${base}.multiple_values.json`, JSON.stringify(multipleValues, null, 2)),
+  ])
 }
 
 Promise.all(codesNames.map(buildAndSaveCodeConversionMappings))

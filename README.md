@@ -106,7 +106,8 @@ wmCodeByIso6391Code['yyef'] // => 'zh-yue'
 ```
 See the [`mappings` folder](https://github.com/inventaire/wikidata-lang/tree/master/mappings) for a full list of available mappings.
 
-**NB**: When several values are available for a given key, no value is added to the conversion table for that key.
+**NB**: When several values are available for a given key, no value is added to the mapping for that key. It is added instead to the `mappings/x_by_x.multiple_values.json` file.
+For instance, in ISO 639-2, both `ell` and `gre` are mapped to `el` in ISO 639-1 (also true for Wikimedia language codes)
 
 ## Examples
 See [how we use it in Inventaire](https://github.com/inventaire/inventaire/search?q=wikidata-lang&type=code)
