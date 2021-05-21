@@ -1,7 +1,7 @@
 require('should')
 
-const byWdId = require('../lib/by_wd_id')
-const byCode = require('../lib/by_code')
+const byWdId = require('../by_wd_id')
+const byCode = require('../by_code')
 
 describe('indexes', () => {
   it('should match', () => {

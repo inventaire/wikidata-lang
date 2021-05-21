@@ -2,7 +2,7 @@
   "name": "wikidata-lang",
   "version": "2.0.11",
   "description": "mappings between 2-letters language codes (ISO 639-1) and Wikidata ids",
-  "main": "lib/by_wd_id.js",
+  "main": "by_wd_id.js",
   "scripts": {
     "build": "./scripts/build.js",
     "test": "mocha",
@@ -12,7 +12,8 @@
   },
   "files": [
     "lib",
-    "data"
+    "data",
+    "*.js"
   ],
   "repository": {
     "type": "git",

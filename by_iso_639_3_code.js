@@ -1,5 +1,5 @@
-const languages = require('../data/languages.json')
-const add = require('./add')
+const languages = require('./data/languages.json')
+const add = require('./lib/add')
 
 const index = {}
 
