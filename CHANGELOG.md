@@ -1,6 +1,28 @@
 # CHANGELOG
 *versions follow [SemVer](http://semver.org)*
 
+## 4.0.0 - 2021-05-21
+### BREAKING CHANGES
+* Files moved:
+  * `wikidata-lang/by_any_code` => `wikidata-lang/indexes/by_any_code`
+  * `wikidata-lang/by_iso_639_1_code` => `wikidata-lang/indexes/by_iso_639_1_code`
+  * `wikidata-lang/by_iso_639_2_code` => `wikidata-lang/indexes/by_iso_639_2_code`
+  * `wikidata-lang/by_iso_639_3_code` => `wikidata-lang/indexes/by_iso_639_3_code`
+  * `wikidata-lang/by_iso_639_6_code` => `wikidata-lang/indexes/by_iso_639_6_code`
+  * `wikidata-lang/by_wd_id` => `wikidata-lang/indexes/by_wd_id`
+  * `wikidata-lang/by_wm_code` => `wikidata-lang/indexes/by_wm_code`
+* Files renamed and moved:
+  * `wikidata-lang/wd_id_by_iso_639_1_code` => `wikidata-lang/maps/wd_id_by_iso_639_1_code.json`
+  * `wikidata-lang/wd_id_by_iso_639_2_code` => `wikidata-lang/maps/wd_id_by_iso_639_2_code.json`
+  * `wikidata-lang/wd_id_by_iso_639_3_code` => `wikidata-lang/maps/wd_id_by_iso_639_3_code.json`
+  * `wikidata-lang/wd_id_by_iso_639_6_code` => `wikidata-lang/maps/wd_id_by_iso_639_6_code.json`
+  * `wikidata-lang/wd_id_by_wm_code` => `wikidata-lang/maps/wd_id_by_wm_code.json`
+  * `wikidata-lang/wm_code_by_iso_639_1_code` => `wikidata-lang/maps/wm_code_by_iso_639_1_code.json`
+  * `wikidata-lang/wm_code_by_iso_639_2_code` => `wikidata-lang/maps/wm_code_by_iso_639_2_code.json`
+  * `wikidata-lang/wm_code_by_iso_639_3_code` => `wikidata-lang/maps/wm_code_by_iso_639_3_code.json`
+  * `wikidata-lang/wm_code_by_iso_639_6_code` => `wikidata-lang/maps/wm_code_by_iso_639_6_code.json`
+  * `wikidata-lang/wm_code_by_wd_id` => `wikidata-lang/maps/wm_code_by_wd_id.json`
+
 ## 3.0.0 - 2021-05-21
 ### BREAKING CHANGES
 * the module interface was reorganized:
