@@ -13,6 +13,7 @@
   },
   "files": [
     "data",
+    "indexes",
     "lib",
     "mappings"
   ],
