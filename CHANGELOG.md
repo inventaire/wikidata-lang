@@ -1,6 +1,9 @@
 # CHANGELOG
 *versions follow [SemVer](http://semver.org)*
 
+## 4.1.0 - 2021-05-21
+* Added `mappings/x_by_x.multiple_values.json` files
+
 ## 4.0.0 - 2021-05-21
 ### BREAKING CHANGES
 * Files moved:
