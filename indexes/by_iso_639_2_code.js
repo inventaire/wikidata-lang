@@ -1,10 +1,10 @@
-const languages = require('./data/languages.json')
-const add = require('./lib/add')
+const languages = require('../data/languages.json')
+const addToIndex = require('../lib/add_to_index')
 
 const index = {}
 
 for (const langData of languages) {
-  add(index, langData, 'iso6392')
+  addToIndex(index, langData, 'iso6392')
 }
 
 module.exports = index

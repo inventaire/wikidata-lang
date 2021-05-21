@@ -1,4 +1,4 @@
-const languages = require('./data/languages.json')
+const languages = require('../data/languages.json')
 const byWdId = {}
 
 for (const langData of languages) {
