@@ -19,6 +19,10 @@ For each language, the data object looks like this:
 }
 ```
 
+[![NPM](https://nodei.co/npm/wikidata-lang.png?stars&downloads&downloadRank)](https://npmjs.com/package/wikidata-lang/)
+
+[Download stats](https://npm-stat.com/charts.html?package=wikidata-lang)
+
 ## Summary
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
