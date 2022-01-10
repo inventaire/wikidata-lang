@@ -2,7 +2,7 @@
   "name": "wikidata-lang",
   "version": "4.1.0",
   "description": "A database of languages and their Wikidata id, Wikimedia language code, ISO 639-1, ISO 639-2, ISO 639-3, ISO 639-6 codes",
-  "main": "by_wd_id.js",
+  "main": "indexes/by_wd_id.js",
   "scripts": {
     "build": "./scripts/build_languages_array.js && ./scripts/build_conversion_mappings.js",
     "postpublish": "git push --tags",
