@@ -27,8 +27,8 @@
       "fr"
     ],
     "iso6392": [
-      "fre",
-      "fra"
+      "fra",
+      "fre"
     ],
     "iso6393": [
       "fra"
@@ -45,8 +45,8 @@
       "de"
     ],
     "iso6392": [
-      "ger",
-      "deu"
+      "deu",
+      "ger"
     ],
     "iso6393": [
       "deu"
@@ -80,8 +80,8 @@
       "is"
     ],
     "iso6392": [
-      "isl",
-      "ice"
+      "ice",
+      "isl"
     ],
     "iso6393": [
       "isl"
@@ -467,8 +467,8 @@
       "zh"
     ],
     "iso6392": [
-      "zho",
-      "chi"
+      "chi",
+      "zho"
     ],
     "iso6393": [
       "zho"
@@ -604,8 +604,8 @@
       "sq"
     ],
     "iso6392": [
-      "sqi",
-      "alb"
+      "alb",
+      "sqi"
     ],
     "iso6393": [
       "sqi"
@@ -667,8 +667,8 @@
       "hy"
     ],
     "iso6392": [
-      "hye",
-      "arm"
+      "arm",
+      "hye"
     ],
     "iso6393": [
       "hye"
@@ -792,8 +792,8 @@
       "cs"
     ],
     "iso6392": [
-      "cze",
-      "ces"
+      "ces",
+      "cze"
     ],
     "iso6393": [
       "ces"
@@ -972,8 +972,8 @@
       "fa"
     ],
     "iso6392": [
-      "per",
-      "fas"
+      "fas",
+      "per"
     ],
     "iso6393": [
       "fas"
@@ -1001,8 +1001,8 @@
     "label": "Cantonese",
     "native": "粵語",
     "wmCode": [
-      "zh-yue",
-      "yue"
+      "yue",
+      "zh-yue"
     ],
     "iso6396": [
       "guzh",
@@ -1095,8 +1095,8 @@
       "my"
     ],
     "iso6392": [
-      "mya",
-      "bur"
+      "bur",
+      "mya"
     ],
     "iso6393": [
       "mya"
@@ -1113,8 +1113,8 @@
       "ms"
     ],
     "iso6392": [
-      "msa",
-      "may"
+      "may",
+      "msa"
     ],
     "iso6393": [
       "msa"
@@ -4507,8 +4507,8 @@
     "label": "Bhojpuri",
     "native": "भोजपुरी",
     "wmCode": [
-      "bho",
-      "bh"
+      "bh",
+      "bho"
     ],
     "iso6392": [
       "bho"
@@ -6353,9 +6353,9 @@
     "label": "Norman",
     "native": "Normaund",
     "wmCode": [
-      "nrm",
       "fr-x-nrm",
-      "nrf"
+      "nrf",
+      "nrm"
     ],
     "iso6393": [
       "nrf"
@@ -6561,8 +6561,8 @@
     "wd": "Q33916",
     "label": "Suba",
     "iso6393": [
-      "sxb",
-      "suh"
+      "suh",
+      "sxb"
     ]
   },
   {
@@ -7626,8 +7626,8 @@
       "bo"
     ],
     "iso6392": [
-      "tib",
-      "bod"
+      "bod",
+      "tib"
     ],
     "iso6393": [
       "bod"
@@ -13850,8 +13850,8 @@
     "label": "Southern Min",
     "native": "Bân-lâm-gí",
     "wmCode": [
-      "zh-min-nan",
-      "nan"
+      "nan",
+      "zh-min-nan"
     ],
     "iso6393": [
       "nan"
@@ -19159,8 +19159,8 @@
     "label": "Alemannic",
     "native": "Schwyzerdütsch",
     "wmCode": [
-      "gsw",
-      "als"
+      "als",
+      "gsw"
     ],
     "iso6392": [
       "gsw"
@@ -23369,8 +23369,8 @@
     "wd": "Q2478711",
     "label": "Naxi",
     "iso6393": [
-      "nxq",
-      "nbf"
+      "nbf",
+      "nxq"
     ]
   },
   {
@@ -25784,8 +25784,8 @@
     "wd": "Q3033556",
     "label": "Sanapaná",
     "iso6393": [
-      "spn",
-      "sap"
+      "sap",
+      "spn"
     ]
   },
   {
@@ -28870,8 +28870,8 @@
     "wd": "Q3327445",
     "label": "Adzera",
     "iso6393": [
-      "azr",
-      "adz"
+      "adz",
+      "azr"
     ]
   },
   {
@@ -44787,8 +44787,8 @@
     "label": "Yue Chinese",
     "native": "粤语",
     "wmCode": [
-      "zh-yue",
-      "yue"
+      "yue",
+      "zh-yue"
     ],
     "iso6393": [
       "yue"
@@ -45230,8 +45230,8 @@
     "wd": "Q7103752",
     "label": "Orokaiva",
     "iso6393": [
-      "ork",
-      "okv"
+      "okv",
+      "ork"
     ]
   },
   {
@@ -59102,8 +59102,8 @@
     "wd": "Q20050850",
     "label": "Dhuwal",
     "iso6393": [
-      "dwu",
-      "duj"
+      "duj",
+      "dwu"
     ]
   },
   {
@@ -59402,9 +59402,9 @@
     "label": "Simple English",
     "native": "Simple English",
     "wmCode": [
-      "simple",
       "en-simple",
-      "en-x-simple"
+      "en-x-simple",
+      "simple"
     ]
   },
   {

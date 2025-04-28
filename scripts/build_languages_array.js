@@ -26,7 +26,19 @@ for (const result of results) {
 }
 
 // Use a consistent key ordering to better display changes
-const reorderObjectKeys = ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 }) => ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 })
+const reorderObjectKeys = ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 }) => {
+  return {
+    wd,
+    label,
+    native,
+    wmCode: wmCode?.sort(),
+    iso6391: iso6391?.sort(),
+    iso6392: iso6392?.sort(),
+    iso6393: iso6393?.sort(),
+    iso6396: iso6396?.sort(),
+  }
+}
+
 const getNumericId = id => parseInt(id.slice(1))
 
 const languages = Object.values(byWdId)

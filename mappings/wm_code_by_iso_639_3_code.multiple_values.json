@@ -1,23 +1,23 @@
 {
   "bho": [
-    "bho",
-    "bh"
+    "bh",
+    "bho"
   ],
   "gsw": [
-    "gsw",
-    "als"
+    "als",
+    "gsw"
   ],
   "nan": [
-    "zh-min-nan",
-    "nan"
+    "nan",
+    "zh-min-nan"
   ],
   "nrf": [
-    "nrm",
     "fr-x-nrm",
-    "nrf"
+    "nrf",
+    "nrm"
   ],
   "yue": [
-    "zh-yue",
-    "yue"
+    "yue",
+    "zh-yue"
   ]
 }

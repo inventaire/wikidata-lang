@@ -1,36 +1,36 @@
 {
   "Q131339": [
-    "gsw",
-    "als"
+    "als",
+    "gsw"
   ],
   "Q21480034": [
-    "simple",
     "en-simple",
-    "en-x-simple"
+    "en-x-simple",
+    "simple"
   ],
   "Q33219": [
     "jv-x-bms",
     "map-bms"
   ],
   "Q33268": [
-    "bho",
-    "bh"
+    "bh",
+    "bho"
   ],
   "Q33850": [
-    "nrm",
     "fr-x-nrm",
-    "nrf"
+    "nrf",
+    "nrm"
   ],
   "Q36495": [
-    "zh-min-nan",
-    "nan"
+    "nan",
+    "zh-min-nan"
   ],
   "Q7033959": [
-    "zh-yue",
-    "yue"
+    "yue",
+    "zh-yue"
   ],
   "Q9186": [
-    "zh-yue",
-    "yue"
+    "yue",
+    "zh-yue"
   ]
 }

@@ -1,19 +1,19 @@
 {
   "bo": [
-    "tib",
-    "bod"
+    "bod",
+    "tib"
   ],
   "cs": [
-    "cze",
-    "ces"
+    "ces",
+    "cze"
   ],
   "cy": [
     "cym",
     "wel"
   ],
   "de": [
-    "ger",
-    "deu"
+    "deu",
+    "ger"
   ],
   "el": [
     "ell",
@@ -24,20 +24,20 @@
     "eus"
   ],
   "fa": [
-    "per",
-    "fas"
+    "fas",
+    "per"
   ],
   "fr": [
-    "fre",
-    "fra"
+    "fra",
+    "fre"
   ],
   "hy": [
-    "hye",
-    "arm"
+    "arm",
+    "hye"
   ],
   "is": [
-    "isl",
-    "ice"
+    "ice",
+    "isl"
   ],
   "ka": [
     "geo",
@@ -52,12 +52,12 @@
     "mkd"
   ],
   "ms": [
-    "msa",
-    "may"
+    "may",
+    "msa"
   ],
   "my": [
-    "mya",
-    "bur"
+    "bur",
+    "mya"
   ],
   "nl": [
     "dut",
@@ -72,11 +72,11 @@
     "slo"
   ],
   "sq": [
-    "sqi",
-    "alb"
+    "alb",
+    "sqi"
   ],
   "zh": [
-    "zho",
-    "chi"
+    "chi",
+    "zho"
   ]
 }
