@@ -1,6 +1,10 @@
 # CHANGELOG
 *versions follow [SemVer](http://semver.org)*
 
+## 5.0.0 - 2025-04-28
+### BREAKING CHANGES
+* Convert module to [ESM](https://nodejs.org/api/esm.html)
+
 ## 4.1.0 - 2021-05-21
 * Added `mappings/x_by_x.multiple_values.json` files
 
