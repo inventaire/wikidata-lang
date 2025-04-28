@@ -1,8 +1,9 @@
-const languages = require('../data/languages.json')
+import { languages } from '../data/languages.js'
+
 const byWdId = {}
 
 for (const langData of languages) {
   byWdId[langData.wd] = langData
 }
 
-module.exports = byWdId
+export default byWdId

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-const { writeFile } = require('fs').promises
-const buildConversionMapping = require('../lib/build_conversion_mapping')
+import { writeFile } from 'node:fs/promises'
+import { buildConversionMapping } from '../lib/build_conversion_mapping.js'
 
 const codesFilenames = {
   wd: 'wd_id',
@@ -13,7 +13,7 @@ const codesFilenames = {
 
 const codesNames = Object.keys(codesFilenames)
 
-const buildAndSaveCodeConversionMappings = keyCodeName => {
+function buildAndSaveCodeConversionMappings (keyCodeName) {
   return Promise.all(codesNames.map(buildAndSaveCodeConversionMapping(keyCodeName)))
 }
 

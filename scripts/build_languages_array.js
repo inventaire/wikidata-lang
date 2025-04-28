@@ -1,10 +1,14 @@
 #!/usr/bin/env node
-const results = require('./languages_data_query_results.json')
-const { writeFile } = require('fs').promises
+import { writeFile } from 'node:fs/promises'
+import { createRequire } from 'node:module'
+
+const requireJson = createRequire(import.meta.url)
+
+const results = requireJson('./languages_data_query_results.json')
 
 const byWdId = {}
 
-const add = (result, langData, codeName) => {
+function add (result, langData, codeName) {
   const codeValue = result[codeName]
   if (codeValue) {
     langData[codeName] = langData[codeName] || []
@@ -26,7 +30,7 @@ for (const result of results) {
 }
 
 // Use a consistent key ordering to better display changes
-const reorderObjectKeys = ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 }) => {
+function reorderObjectKeys ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 }) {
   return {
     wd,
     label,

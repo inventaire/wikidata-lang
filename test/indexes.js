@@ -1,7 +1,6 @@
-require('should')
-
-const byWdId = require('../indexes/by_wd_id')
-const byWmCode = require('../indexes/by_wm_code')
+import 'should'
+import byWdId from '../indexes/by_wd_id.js'
+import byWmCode from '../indexes/by_wm_code.js'
 
 describe('indexes', () => {
   it('should match', () => {
