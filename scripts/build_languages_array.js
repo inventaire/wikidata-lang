@@ -25,7 +25,10 @@ for (const result of results) {
   add(result, langData, 'iso6396')
 }
 
-const languages = Object.values(byWdId)
+// Use a consistent key ordering to better display changes
+const reorderObjectKeys = ({ wd, native, label, wmCode, iso6391, iso6392, iso6393, iso6396 }) => ({ wd, native, label, wmCode, iso6391, iso6392, iso6393, iso6396 })
+
+const languages = Object.values(byWdId).map(reorderObjectKeys)
 
 writeFile('./data/languages.json', JSON.stringify(languages))
 .then(() => console.log('rebuilt languages data'))

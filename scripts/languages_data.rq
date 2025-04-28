@@ -5,9 +5,9 @@ SELECT ?wd ?wmCode ?iso6391 ?iso6392 ?iso6393 ?iso6396 ?native ?label {
   { ?wd wdt:P218 ?iso6391 . } UNION
   { ?wd wdt:P219 ?iso6392 . } UNION
   { ?wd wdt:P220 ?iso6393 . } UNION
-  { ?wd wdt:P221 ?iso6396 . }
+  { ?wd wdt:P221 ?iso6396 . } UNION
+  { ?wd wdt:P424 ?wmCode . }
 
-  OPTIONAL { ?wd wdt:P424 ?wmCode . }
   OPTIONAL { ?wd wdt:P1705 ?native }
   OPTIONAL {
     ?wd rdfs:label ?label
