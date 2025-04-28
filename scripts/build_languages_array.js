@@ -26,10 +26,13 @@ for (const result of results) {
 }
 
 // Use a consistent key ordering to better display changes
-const reorderObjectKeys = ({ wd, native, label, wmCode, iso6391, iso6392, iso6393, iso6396 }) => ({ wd, native, label, wmCode, iso6391, iso6392, iso6393, iso6396 })
+const reorderObjectKeys = ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 }) => ({ wd, label, native, wmCode, iso6391, iso6392, iso6393, iso6396 })
+const getNumericId = id => parseInt(id.slice(1))
 
-const languages = Object.values(byWdId).map(reorderObjectKeys)
+const languages = Object.values(byWdId)
+  .map(reorderObjectKeys)
+  .sort((a, b) => getNumericId(a.wd) - getNumericId(b.wd))
 
-writeFile('./data/languages.json', JSON.stringify(languages))
+writeFile('./data/languages.json', JSON.stringify(languages, null, 2))
 .then(() => console.log('rebuilt languages data'))
 .catch(console.error)
