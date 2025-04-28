@@ -4,8 +4,8 @@
     "bod"
   ],
   "ces": [
-    "ces",
-    "cze"
+    "cze",
+    "ces"
   ],
   "cym": [
     "cym",
@@ -24,28 +24,28 @@
     "eus"
   ],
   "fas": [
-    "fas",
-    "per"
+    "per",
+    "fas"
   ],
   "fra": [
-    "fra",
-    "fre"
+    "fre",
+    "fra"
   ],
   "hye": [
-    "arm",
-    "hye"
+    "hye",
+    "arm"
   ],
   "isl": [
-    "ice",
-    "isl"
+    "isl",
+    "ice"
   ],
   "kat": [
     "geo",
     "kat"
   ],
   "mkd": [
-    "mkd",
-    "mac"
+    "mac",
+    "mkd"
   ],
   "mri": [
     "mao",
@@ -64,19 +64,19 @@
     "nld"
   ],
   "ron": [
-    "rum",
-    "ron"
+    "ron",
+    "rum"
   ],
   "slk": [
     "slk",
     "slo"
   ],
   "sqi": [
-    "alb",
-    "sqi"
+    "sqi",
+    "alb"
   ],
   "zho": [
-    "chi",
-    "zho"
+    "zho",
+    "chi"
   ]
 }

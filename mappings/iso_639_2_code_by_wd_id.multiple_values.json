@@ -1,15 +1,15 @@
 {
   "Q150": [
-    "fra",
-    "fre"
+    "fre",
+    "fra"
   ],
   "Q188": [
     "ger",
     "deu"
   ],
   "Q294": [
-    "ice",
-    "isl"
+    "isl",
+    "ice"
   ],
   "Q34271": [
     "tib",
@@ -23,49 +23,45 @@
     "ell",
     "gre"
   ],
-  "Q727694": [
-    "zho",
-    "chi"
-  ],
   "Q7411": [
     "dut",
     "nld"
   ],
   "Q7850": [
-    "chi",
-    "zho"
+    "zho",
+    "chi"
   ],
   "Q7913": [
-    "rum",
-    "ron"
+    "ron",
+    "rum"
   ],
   "Q8108": [
     "geo",
     "kat"
   ],
   "Q8748": [
-    "alb",
-    "sqi"
+    "sqi",
+    "alb"
   ],
   "Q8752": [
     "baq",
     "eus"
   ],
   "Q8785": [
-    "arm",
-    "hye"
+    "hye",
+    "arm"
   ],
   "Q9056": [
-    "ces",
-    "cze"
+    "cze",
+    "ces"
   ],
   "Q9058": [
     "slk",
     "slo"
   ],
   "Q9168": [
-    "fas",
-    "per"
+    "per",
+    "fas"
   ],
   "Q9228": [
     "mya",
@@ -76,8 +72,8 @@
     "may"
   ],
   "Q9296": [
-    "mkd",
-    "mac"
+    "mac",
+    "mkd"
   ],
   "Q9309": [
     "cym",

@@ -1,1 +1,36 @@
-{}
+{
+  "Q131339": [
+    "gsw",
+    "als"
+  ],
+  "Q21480034": [
+    "simple",
+    "en-simple",
+    "en-x-simple"
+  ],
+  "Q33219": [
+    "jv-x-bms",
+    "map-bms"
+  ],
+  "Q33268": [
+    "bho",
+    "bh"
+  ],
+  "Q33850": [
+    "nrm",
+    "fr-x-nrm",
+    "nrf"
+  ],
+  "Q36495": [
+    "zh-min-nan",
+    "nan"
+  ],
+  "Q7033959": [
+    "zh-yue",
+    "yue"
+  ],
+  "Q9186": [
+    "zh-yue",
+    "yue"
+  ]
+}
