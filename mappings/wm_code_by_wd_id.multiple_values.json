@@ -8,6 +8,10 @@
     "en-x-simple",
     "simple"
   ],
+  "Q32174903": [
+    "cbk-x-zam",
+    "cbk-zam"
+  ],
   "Q33219": [
     "jv-x-bms",
     "map-bms"
@@ -15,6 +19,10 @@
   "Q33268": [
     "bh",
     "bho"
+  ],
+  "Q3356620": [
+    "sgh-oro",
+    "sgh-ro"
   ],
   "Q33850": [
     "fr-x-nrm",
@@ -24,6 +32,11 @@
   "Q36495": [
     "nan",
     "zh-min-nan"
+  ],
+  "Q695526": [
+    "it-x-tara",
+    "nap-x-tara",
+    "roa-tara"
   ],
   "Q7033959": [
     "yue",

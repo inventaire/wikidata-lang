@@ -173,6 +173,23 @@
     ]
   },
   {
+    "wd": "Q1568",
+    "label": "Hindi",
+    "native": "हिन्दी",
+    "wmCode": [
+      "hi"
+    ],
+    "iso6391": [
+      "hi"
+    ],
+    "iso6392": [
+      "hin"
+    ],
+    "iso6393": [
+      "hin"
+    ]
+  },
+  {
     "wd": "Q1571",
     "label": "Marathi",
     "native": "मराठी",
@@ -187,6 +204,23 @@
     ],
     "iso6393": [
       "mar"
+    ]
+  },
+  {
+    "wd": "Q1617",
+    "label": "Urdu",
+    "native": "اردو",
+    "wmCode": [
+      "ur"
+    ],
+    "iso6391": [
+      "ur"
+    ],
+    "iso6392": [
+      "urd"
+    ],
+    "iso6393": [
+      "urd"
     ]
   },
   {
@@ -211,6 +245,17 @@
     "label": "Old Nubian",
     "iso6393": [
       "onw"
+    ]
+  },
+  {
+    "wd": "Q4624",
+    "label": "Kölsch",
+    "native": "Kölsch",
+    "wmCode": [
+      "ksh"
+    ],
+    "iso6393": [
+      "ksh"
     ]
   },
   {
@@ -535,6 +580,14 @@
     ]
   },
   {
+    "wd": "Q7979",
+    "label": "British English",
+    "native": "British English",
+    "wmCode": [
+      "en-gb"
+    ]
+  },
+  {
     "wd": "Q8097",
     "label": "Telugu",
     "native": "తెలుగు",
@@ -554,7 +607,7 @@
   {
     "wd": "Q8108",
     "label": "Georgian",
-    "native": "ქართული",
+    "native": "ქართული ენა",
     "wmCode": [
       "ka"
     ],
@@ -571,7 +624,7 @@
   },
   {
     "wd": "Q8141",
-    "label": "Israeli (Modern) Hebrew",
+    "label": "Modern Hebrew",
     "iso6393": [
       "heb"
     ]
@@ -784,7 +837,7 @@
   {
     "wd": "Q9056",
     "label": "Czech",
-    "native": "český jazyk",
+    "native": "čeština",
     "wmCode": [
       "cs"
     ],
@@ -999,7 +1052,7 @@
   {
     "wd": "Q9186",
     "label": "Cantonese",
-    "native": "粵語",
+    "native": "粵文",
     "wmCode": [
       "yue",
       "zh-yue"
@@ -1019,7 +1072,7 @@
   {
     "wd": "Q9199",
     "label": "Vietnamese",
-    "native": "tiếng Việt",
+    "native": "Tiếng Việt",
     "wmCode": [
       "vi"
     ],
@@ -1174,7 +1227,7 @@
   {
     "wd": "Q9255",
     "label": "Kyrgyz",
-    "native": "Кыргыз тили",
+    "native": "кыргызча",
     "wmCode": [
       "ky"
     ],
@@ -1190,8 +1243,8 @@
   },
   {
     "wd": "Q9260",
-    "label": "Tajik",
-    "native": "форсии тоҷикӣ",
+    "label": "Tajik language",
+    "native": "забони тоҷикӣ",
     "wmCode": [
       "tg"
     ],
@@ -1311,7 +1364,7 @@
   {
     "wd": "Q9301",
     "label": "Serbo-Croatian",
-    "native": "srpskohrvatski jezik",
+    "native": "српскохрватски језик",
     "wmCode": [
       "sh"
     ],
@@ -1320,6 +1373,23 @@
     ],
     "iso6393": [
       "hbs"
+    ]
+  },
+  {
+    "wd": "Q9303",
+    "label": "Bosnian",
+    "native": "bosanski jezik",
+    "wmCode": [
+      "bs"
+    ],
+    "iso6391": [
+      "bs"
+    ],
+    "iso6392": [
+      "bos"
+    ],
+    "iso6393": [
+      "bos"
     ]
   },
   {
@@ -1808,7 +1878,7 @@
   {
     "wd": "Q13271",
     "label": "Skolt Sami",
-    "native": "sääʹmǩiõll",
+    "native": "nuõʹrttsääʹmǩiõll",
     "wmCode": [
       "sms"
     ],
@@ -2139,6 +2209,10 @@
   {
     "wd": "Q13354",
     "label": "Yucatec Maya",
+    "native": "màaya t'àan",
+    "wmCode": [
+      "yua"
+    ],
     "iso6393": [
       "yua"
     ]
@@ -2196,6 +2270,7 @@
   {
     "wd": "Q13363",
     "label": "Menominee",
+    "native": "omǣqnomenēweqnæsewen",
     "iso6393": [
       "mez"
     ]
@@ -2221,6 +2296,7 @@
   {
     "wd": "Q13368",
     "label": "Mescalero-Chiricahua",
+    "native": "Ndee bizaa",
     "iso6393": [
       "apm"
     ]
@@ -2270,7 +2346,7 @@
   {
     "wd": "Q14185",
     "label": "Occitan",
-    "native": "Occitan",
+    "native": "occitan",
     "wmCode": [
       "oc"
     ],
@@ -2354,6 +2430,22 @@
     ],
     "iso6393": [
       "frp"
+    ]
+  },
+  {
+    "wd": "Q18784",
+    "label": "North Korean standard language",
+    "native": "문화어",
+    "wmCode": [
+      "ko-kp"
+    ]
+  },
+  {
+    "wd": "Q18795",
+    "label": "South Korean standard language",
+    "native": "표준어",
+    "wmCode": [
+      "ko-kr"
     ]
   },
   {
@@ -2523,7 +2615,7 @@
   },
   {
     "wd": "Q21200",
-    "label": "Germanic",
+    "label": "Germanic languages",
     "iso6392": [
       "gem"
     ],
@@ -2645,7 +2737,7 @@
   {
     "wd": "Q25289",
     "label": "Cornish",
-    "native": "Kernewek",
+    "native": "kernewek",
     "wmCode": [
       "kw"
     ],
@@ -2700,7 +2792,7 @@
   {
     "wd": "Q25442",
     "label": "Sorbian",
-    "native": "Serbšćina",
+    "native": "Serbski",
     "wmCode": [
       "wen"
     ],
@@ -2732,7 +2824,7 @@
   {
     "wd": "Q26245",
     "label": "Rusyn",
-    "native": "Русиньскый язык",
+    "native": "русиньскый язык",
     "wmCode": [
       "rue"
     ],
@@ -2894,7 +2986,7 @@
   {
     "wd": "Q27776",
     "label": "Adyghe",
-    "native": "Адыгабзэ",
+    "native": "Кӏах Адыгабзэ",
     "wmCode": [
       "ady"
     ],
@@ -2997,6 +3089,7 @@
   {
     "wd": "Q27963",
     "label": "Naukan Yupik",
+    "native": "Nuvuqaghmiistun",
     "iso6393": [
       "ynk"
     ]
@@ -3004,7 +3097,7 @@
   {
     "wd": "Q27969",
     "label": "Ainu",
-    "native": "アイヌ イタㇰ",
+    "native": "Aynu itak",
     "wmCode": [
       "ain"
     ],
@@ -3013,6 +3106,13 @@
     ],
     "iso6393": [
       "ain"
+    ]
+  },
+  {
+    "wd": "Q27970",
+    "label": "Yupik",
+    "iso6392": [
+      "ypk"
     ]
   },
   {
@@ -3033,7 +3133,7 @@
   {
     "wd": "Q28026",
     "label": "Akan",
-    "native": "akan",
+    "native": "Akan",
     "wmCode": [
       "ak"
     ],
@@ -3103,6 +3203,7 @@
   {
     "wd": "Q28213",
     "label": "Alyutor",
+    "native": "nəməlʔu",
     "iso6393": [
       "alr"
     ]
@@ -3292,7 +3393,7 @@
   {
     "wd": "Q28552",
     "label": "Denetaca",
-    "native": "Dene Zhatıé",
+    "native": "Dené Dháh",
     "iso6393": [
       "xsl"
     ]
@@ -3312,6 +3413,14 @@
     ]
   },
   {
+    "wd": "Q28602",
+    "label": "Aramaic",
+    "native": "ܠܫܢܐ ܐܪܡܝܐ",
+    "wmCode": [
+      "arc"
+    ]
+  },
+  {
     "wd": "Q29277",
     "label": "Are",
     "iso6393": [
@@ -3328,7 +3437,7 @@
   {
     "wd": "Q29316",
     "label": "Aromanian",
-    "native": "Limba armãneascã",
+    "native": "armãneashce",
     "wmCode": [
       "rup"
     ],
@@ -3356,7 +3465,7 @@
   {
     "wd": "Q29401",
     "label": "Assamese",
-    "native": "অসমীয়া",
+    "native": "অসমীয়া ভাষা",
     "wmCode": [
       "as"
     ],
@@ -3426,7 +3535,7 @@
   {
     "wd": "Q29561",
     "label": "Avar",
-    "native": "магIарул мацI",
+    "native": "авар мацI",
     "wmCode": [
       "av"
     ],
@@ -3541,7 +3650,7 @@
   {
     "wd": "Q30005",
     "label": "Ewe",
-    "native": "Eʋe",
+    "native": "Eʋegbe",
     "wmCode": [
       "ee"
     ],
@@ -3615,7 +3724,7 @@
   {
     "wd": "Q31746",
     "label": "Lezgian",
-    "native": "лезги",
+    "native": "Лезги чIал",
     "wmCode": [
       "lez"
     ],
@@ -3624,6 +3733,13 @@
     ],
     "iso6393": [
       "lez"
+    ]
+  },
+  {
+    "wd": "Q31989",
+    "label": "English-based creole languages",
+    "iso6392": [
+      "cpe"
     ]
   },
   {
@@ -3783,7 +3899,7 @@
   {
     "wd": "Q32724",
     "label": "Venetian",
-    "native": "Łéngua vèneta",
+    "native": "Vèneto",
     "wmCode": [
       "vec"
     ],
@@ -3816,6 +3932,9 @@
     "native": "võro kiil",
     "wmCode": [
       "fiu-vro"
+    ],
+    "iso6393": [
+      "vro"
     ]
   },
   {
@@ -3835,7 +3954,7 @@
   {
     "wd": "Q32878",
     "label": "Dolgan",
-    "native": "Дулҕан",
+    "native": "долган",
     "iso6393": [
       "dlg"
     ]
@@ -3933,6 +4052,7 @@
   {
     "wd": "Q32972",
     "label": "Comanche",
+    "native": "Nʉmʉ Tekwapʉ̲",
     "iso6393": [
       "com"
     ]
@@ -3940,7 +4060,7 @@
   {
     "wd": "Q32979",
     "label": "Choctaw",
-    "native": "Chahta",
+    "native": "Chahta anumpa",
     "wmCode": [
       "cho"
     ],
@@ -3993,7 +4113,7 @@
   },
   {
     "wd": "Q33012",
-    "label": "Karo",
+    "label": "Karo Batak",
     "iso6393": [
       "btx"
     ]
@@ -4014,7 +4134,7 @@
   {
     "wd": "Q33014",
     "label": "Betawi",
-    "native": "basè Betawi",
+    "native": "basa Betawi",
     "iso6393": [
       "bew"
     ]
@@ -4067,7 +4187,7 @@
   {
     "wd": "Q33049",
     "label": "Balochi",
-    "native": "بلوچی",
+    "native": "Балочи",
     "wmCode": [
       "bal"
     ],
@@ -4150,7 +4270,7 @@
   {
     "wd": "Q33086",
     "label": "Balti",
-    "native": "སྦལ་ཏི།",
+    "native": "بلتی",
     "iso6393": [
       "bft"
     ]
@@ -4185,7 +4305,7 @@
   {
     "wd": "Q33120",
     "label": "Buryat",
-    "native": "ᠪᠤᠷᠢᠶᠠᠳ ᠮᠣᠩᠭᠣᠯ ᠬᠯᠡᠨ",
+    "native": "буряад хэлэн",
     "wmCode": [
       "bxr"
     ],
@@ -4292,7 +4412,7 @@
   {
     "wd": "Q33190",
     "label": "Bugis",
-    "native": "ᨅᨔ ᨕᨚᨁᨗ",
+    "native": "basa Ogi",
     "wmCode": [
       "bug"
     ],
@@ -4334,6 +4454,13 @@
     ]
   },
   {
+    "wd": "Q33215",
+    "label": "constructed language",
+    "iso6392": [
+      "art"
+    ]
+  },
+  {
     "wd": "Q33219",
     "label": "Banyumasan Javanese",
     "native": "Basa Banyumasan",
@@ -4345,7 +4472,7 @@
   {
     "wd": "Q33223",
     "label": "Bodo",
-    "native": "बोडो भाषा",
+    "native": "बोडो",
     "wmCode": [
       "brx"
     ],
@@ -4451,6 +4578,13 @@
     ]
   },
   {
+    "wd": "Q33256",
+    "label": "Bartangi",
+    "wmCode": [
+      "sgh-ba"
+    ]
+  },
+  {
     "wd": "Q33257",
     "label": "Bikya",
     "iso6393": [
@@ -4474,7 +4608,7 @@
   {
     "wd": "Q33262",
     "label": "Chamorro",
-    "native": "Chamorro",
+    "native": "Chamorru",
     "wmCode": [
       "ch"
     ],
@@ -4624,7 +4758,7 @@
   {
     "wd": "Q33287",
     "label": "Ga",
-    "native": "Ga",
+    "native": "Gã",
     "wmCode": [
       "gaa"
     ],
@@ -4674,6 +4808,16 @@
     ]
   },
   {
+    "wd": "Q33298",
+    "label": "Filipino",
+    "iso6392": [
+      "fil"
+    ],
+    "iso6393": [
+      "fil"
+    ]
+  },
+  {
     "wd": "Q33299",
     "label": "Hobyót",
     "iso6393": [
@@ -4712,7 +4856,7 @@
   {
     "wd": "Q33315",
     "label": "Herero",
-    "native": "Otsiherero",
+    "native": "Otjiherero",
     "wmCode": [
       "hz"
     ],
@@ -4749,7 +4893,7 @@
   },
   {
     "wd": "Q33332",
-    "label": "Jingpho",
+    "label": "Jingpo",
     "iso6392": [
       "kac"
     ],
@@ -4811,7 +4955,7 @@
   {
     "wd": "Q33357",
     "label": "Crimean Tatar",
-    "native": "Къырым тили",
+    "native": "قریم تاتار تلی",
     "wmCode": [
       "crh"
     ],
@@ -4934,7 +5078,7 @@
   {
     "wd": "Q33390",
     "label": "Cree",
-    "native": "ᐃᔨᔨᐤ ᐊᔨᒧᐎᓐ'",
+    "native": "nēhiyawēwin",
     "wmCode": [
       "cr"
     ],
@@ -5030,7 +5174,7 @@
   {
     "wd": "Q33416",
     "label": "Kalasha",
-    "native": "Kal'as'amondr",
+    "native": "کالؕاشؕا موندر",
     "iso6393": [
       "kls"
     ]
@@ -5045,6 +5189,10 @@
   {
     "wd": "Q33419",
     "label": "Ishkashimi",
+    "native": "škošmi zəvůk",
+    "wmCode": [
+      "isk"
+    ],
     "iso6393": [
       "isk"
     ]
@@ -5179,7 +5327,7 @@
   },
   {
     "wd": "Q33457",
-    "label": "Gagauz",
+    "label": "Gagauz language",
     "native": "Gagauz dili",
     "wmCode": [
       "gag"
@@ -5363,7 +5511,7 @@
   {
     "wd": "Q33522",
     "label": "Kabardian",
-    "native": "Адыгэбзэ",
+    "native": "Къэбэрдей",
     "wmCode": [
       "kbd"
     ],
@@ -5462,7 +5610,7 @@
   {
     "wd": "Q33552",
     "label": "Kashmiri",
-    "native": "कॉशुर",
+    "native": "کٲشُر",
     "wmCode": [
       "ks"
     ],
@@ -5493,7 +5641,7 @@
   {
     "wd": "Q33559",
     "label": "Ingrian",
-    "native": "ižoran keeli",
+    "native": "inkeroin keeli",
     "iso6393": [
       "izh"
     ]
@@ -5522,7 +5670,7 @@
   {
     "wd": "Q33573",
     "label": "Kinyarwanda",
-    "native": "Ikinyarwanda",
+    "native": "Kinyarwanda",
     "wmCode": [
       "rw"
     ],
@@ -5787,7 +5935,7 @@
   {
     "wd": "Q33630",
     "label": "Kusunda",
-    "native": "Mihaq",
+    "native": "Gemehaq gipan",
     "iso6393": [
       "kgg"
     ]
@@ -5889,6 +6037,7 @@
   {
     "wd": "Q33660",
     "label": "Puelche",
+    "native": "Gününa Küna",
     "iso6393": [
       "pue"
     ]
@@ -5980,6 +6129,7 @@
   {
     "wd": "Q33678",
     "label": "Mandinka",
+    "native": "Mandinka kaŋo",
     "iso6393": [
       "mnk"
     ]
@@ -6423,6 +6573,9 @@
   {
     "wd": "Q33873",
     "label": "Sarikoli",
+    "wmCode": [
+      "srh"
+    ],
     "iso6393": [
       "srh"
     ]
@@ -6667,7 +6820,7 @@
   {
     "wd": "Q33963",
     "label": "Salar",
-    "native": "撒拉语",
+    "native": "Salïrča",
     "iso6393": [
       "slr"
     ]
@@ -6675,7 +6828,7 @@
   {
     "wd": "Q33965",
     "label": "Santali",
-    "native": "চাঁওতালি",
+    "native": "ᱥᱟᱱᱛᱟᱲᱤ",
     "wmCode": [
       "sat"
     ],
@@ -6689,7 +6842,7 @@
   {
     "wd": "Q33968",
     "label": "Ossetian",
-    "native": "Ирон ӕвзаг",
+    "native": "Iron ævzag",
     "wmCode": [
       "os"
     ],
@@ -6783,7 +6936,7 @@
   {
     "wd": "Q33997",
     "label": "Sindhi",
-    "native": "सिंधी",
+    "native": "سِنڌِي",
     "wmCode": [
       "sd"
     ],
@@ -6800,7 +6953,7 @@
   {
     "wd": "Q34002",
     "label": "Sundanese",
-    "native": "Sunda",
+    "native": "bahasa Sunda",
     "wmCode": [
       "su"
     ],
@@ -6817,7 +6970,7 @@
   {
     "wd": "Q34004",
     "label": "Shona",
-    "native": "Chishona",
+    "native": "chiShona",
     "wmCode": [
       "sn"
     ],
@@ -6925,7 +7078,7 @@
   {
     "wd": "Q34029",
     "label": "Yapese",
-    "native": "Thin nu Wa’ab",
+    "native": "thin ni Waqab",
     "wmCode": [
       "yap"
     ],
@@ -6979,6 +7132,10 @@
   {
     "wd": "Q34053",
     "label": "Shughni",
+    "native": "xuɣ̌nůni ziv / хуг̌ну̊ни зив",
+    "wmCode": [
+      "sgh"
+    ],
     "iso6393": [
       "sgh"
     ]
@@ -7041,6 +7198,9 @@
   {
     "wd": "Q34070",
     "label": "Tupian",
+    "wmCode": [
+      "yrl"
+    ],
     "iso6392": [
       "tup"
     ]
@@ -7285,7 +7445,7 @@
   },
   {
     "wd": "Q34152",
-    "label": "Tachelhit",
+    "label": "Tashelhit",
     "native": "تشلحيت",
     "wmCode": [
       "shi"
@@ -7346,7 +7506,7 @@
   {
     "wd": "Q34174",
     "label": "Tarifit",
-    "native": "تاريفيت",
+    "native": "Tarifit",
     "wmCode": [
       "rif"
     ],
@@ -7374,6 +7534,10 @@
   {
     "wd": "Q34186",
     "label": "Yazgulyam",
+    "native": "yuzdami zevég",
+    "wmCode": [
+      "yah"
+    ],
     "iso6393": [
       "yah"
     ]
@@ -7441,6 +7605,7 @@
   {
     "wd": "Q34208",
     "label": "Wakhi",
+    "native": "ښیکوار زیک Х̆икв̆ор зик X̌ikwor zik",
     "wmCode": [
       "wbl"
     ],
@@ -7521,7 +7686,7 @@
   {
     "wd": "Q34235",
     "label": "Nuosu",
-    "native": "Nuosu",
+    "native": "ꆈꌠꉙ",
     "wmCode": [
       "ii"
     ],
@@ -7566,6 +7731,7 @@
   {
     "wd": "Q34247",
     "label": "Yaghnobi",
+    "native": "яғнобӣ зӣвок",
     "wmCode": [
       "yai"
     ],
@@ -7618,7 +7784,7 @@
   {
     "wd": "Q34271",
     "label": "Tibetan",
-    "native": "ལྷ་སའི་སྐད",
+    "native": "བོད་སྐད",
     "wmCode": [
       "bo"
     ],
@@ -7668,7 +7834,7 @@
   {
     "wd": "Q34299",
     "label": "Yakut",
-    "native": "саха тыла",
+    "native": "сахалыы",
     "wmCode": [
       "sah"
     ],
@@ -7699,7 +7865,7 @@
   {
     "wd": "Q34318",
     "label": "Talysh",
-    "native": "تؤلشی",
+    "native": "Tolyšə zyvon",
     "wmCode": [
       "tly"
     ],
@@ -8063,7 +8229,7 @@
   },
   {
     "wd": "Q34831",
-    "label": "Bonol",
+    "label": "Bono",
     "native": "twi",
     "iso6393": [
       "abr"
@@ -8960,6 +9126,7 @@
   {
     "wd": "Q35091",
     "label": "Awakatek",
+    "native": "Qa'yol",
     "iso6393": [
       "agu"
     ]
@@ -9047,11 +9214,19 @@
   {
     "wd": "Q35115",
     "label": "Kaqchikel",
+    "native": "Kaqchikel Chʼabʼäl",
     "wmCode": [
       "cak"
     ],
     "iso6393": [
       "cak"
+    ]
+  },
+  {
+    "wd": "Q35118",
+    "label": "Beti",
+    "iso6393": [
+      "btb"
     ]
   },
   {
@@ -9257,6 +9432,7 @@
   {
     "wd": "Q35177",
     "label": "Ch’orti’",
+    "native": "Ch'orti'",
     "iso6393": [
       "caa"
     ]
@@ -9326,7 +9502,7 @@
   },
   {
     "wd": "Q35190",
-    "label": "Chala language",
+    "label": "Chala",
     "iso6393": [
       "cll"
     ]
@@ -9511,6 +9687,7 @@
   {
     "wd": "Q35233",
     "label": "Chuj",
+    "native": "Koti'",
     "iso6393": [
       "cac"
     ]
@@ -9988,6 +10165,14 @@
     ]
   },
   {
+    "wd": "Q35359",
+    "label": "Auvergnat",
+    "native": "Auvernhat",
+    "iso6393": [
+      "auv"
+    ]
+  },
+  {
     "wd": "Q35361",
     "label": "Aka-Bo",
     "iso6393": [
@@ -10392,6 +10577,7 @@
   {
     "wd": "Q35490",
     "label": "Garifuna",
+    "native": "Karif",
     "iso6393": [
       "cab"
     ]
@@ -10473,7 +10659,7 @@
   {
     "wd": "Q35518",
     "label": "Akkadian",
-    "native": "lišānum akkadītum",
+    "native": "𒀝 𒅗 𒁺 𒌑",
     "iso6392": [
       "akk"
     ],
@@ -10484,7 +10670,7 @@
   {
     "wd": "Q35519",
     "label": "Lambayeque Quechua",
-    "native": "Inkawasi-Kañaris runashimi",
+    "native": "Inkawasi-Kañaris qichwashimi",
     "iso6393": [
       "quf"
     ]
@@ -10544,6 +10730,7 @@
   {
     "wd": "Q35536",
     "label": "Q’eqchi’",
+    "native": "Q'eqchi'",
     "iso6393": [
       "kek"
     ]
@@ -10676,6 +10863,13 @@
     ],
     "iso6393": [
       "fat"
+    ]
+  },
+  {
+    "wd": "Q35571",
+    "label": "Fuzhou dialect",
+    "iso6396": [
+      "fzho"
     ]
   },
   {
@@ -11253,6 +11447,14 @@
     "label": "Makalero",
     "iso6393": [
       "mjb"
+    ]
+  },
+  {
+    "wd": "Q35735",
+    "label": "Gascon",
+    "native": "gascon",
+    "iso6393": [
+      "gsc"
     ]
   },
   {
@@ -11943,7 +12145,7 @@
   {
     "wd": "Q35934",
     "label": "Interlingua",
-    "native": "interlingua",
+    "native": "Interlingua",
     "wmCode": [
       "ia"
     ],
@@ -12107,7 +12309,7 @@
   },
   {
     "wd": "Q35991",
-    "label": "Kamassian",
+    "label": "Kamas",
     "native": "калмажи шəкə",
     "iso6393": [
       "xas"
@@ -12307,7 +12509,7 @@
   },
   {
     "wd": "Q36056",
-    "label": "Mpuono",
+    "label": "Mbuun",
     "iso6393": [
       "zmp"
     ]
@@ -12507,6 +12709,7 @@
   {
     "wd": "Q36116",
     "label": "Middle Irish",
+    "native": "Gaoidhealg",
     "iso6392": [
       "mga"
     ],
@@ -12702,7 +12905,7 @@
   {
     "wd": "Q36163",
     "label": "Kurmanji",
-    "native": "Zimanê Kurdî",
+    "native": "Kurmancî",
     "wmCode": [
       "ku"
     ],
@@ -12797,7 +13000,7 @@
   {
     "wd": "Q36196",
     "label": "Judaeo-Spanish",
-    "native": "Djudeo-espanyol",
+    "native": "Ladino",
     "wmCode": [
       "lad"
     ],
@@ -12836,7 +13039,7 @@
   {
     "wd": "Q36206",
     "label": "Lak",
-    "native": "Лакку маз",
+    "native": "лакку",
     "wmCode": [
       "lbe"
     ],
@@ -13110,7 +13313,7 @@
   {
     "wd": "Q36280",
     "label": "Marshallese",
-    "native": "Kajin M̧ajeļ",
+    "native": "Kajin Aelōñ Kein",
     "wmCode": [
       "mh"
     ],
@@ -13412,7 +13615,7 @@
   {
     "wd": "Q36368",
     "label": "Kurdish",
-    "native": "Zimanê Kurdî",
+    "native": "کوردی",
     "wmCode": [
       "ku"
     ],
@@ -13874,7 +14077,7 @@
   {
     "wd": "Q36510",
     "label": "Modern Greek",
-    "native": "ελληνικά",
+    "native": "Ελληνικά",
     "wmCode": [
       "el"
     ],
@@ -14357,7 +14560,7 @@
   {
     "wd": "Q36656",
     "label": "Ter Sami",
-    "native": "са̄мя кӣлл",
+    "native": "sām’e kīll",
     "wmCode": [
       "sjt"
     ],
@@ -14544,6 +14747,13 @@
     ]
   },
   {
+    "wd": "Q36718",
+    "label": "Shanghainese",
+    "iso6396": [
+      "suji"
+    ]
+  },
+  {
     "wd": "Q36720",
     "label": "Nupe",
     "iso6393": [
@@ -14560,7 +14770,7 @@
   {
     "wd": "Q36727",
     "label": "Pali",
-    "native": "Pāḷi",
+    "native": "𑀧𑀸𑀴𑀺",
     "wmCode": [
       "pi"
     ],
@@ -14599,7 +14809,7 @@
     "wd": "Q36734",
     "label": "Phoenician",
     "wmCode": [
-      "xpu"
+      "phn"
     ],
     "iso6392": [
       "phn"
@@ -14641,7 +14851,7 @@
   {
     "wd": "Q36745",
     "label": "Cook Islands Maori",
-    "native": "Te Reo Maori",
+    "native": "Māori Kūki 'Āirani",
     "wmCode": [
       "rar"
     ],
@@ -14701,6 +14911,13 @@
     "native": "мыхаӀбишды чӀел",
     "iso6393": [
       "rut"
+    ]
+  },
+  {
+    "wd": "Q36759",
+    "label": "Teochew",
+    "iso6396": [
+      "czhu"
     ]
   },
   {
@@ -14781,6 +14998,14 @@
     ]
   },
   {
+    "wd": "Q36806",
+    "label": "Southern Quechua",
+    "native": "Qhichwa",
+    "wmCode": [
+      "qu"
+    ]
+  },
+  {
     "wd": "Q36808",
     "label": "Tzeltal",
     "iso6393": [
@@ -14790,6 +15015,7 @@
   {
     "wd": "Q36809",
     "label": "Tzotzil",
+    "native": "Bats'i k'op",
     "iso6393": [
       "tzo"
     ]
@@ -15114,7 +15340,7 @@
   },
   {
     "wd": "Q36934",
-    "label": "Urartian/Bianilian",
+    "label": "Urartian",
     "iso6393": [
       "xur"
     ]
@@ -15233,6 +15459,13 @@
     "native": "Yawyu runasimi",
     "iso6393": [
       "qux"
+    ]
+  },
+  {
+    "wd": "Q36967",
+    "label": "Tingal",
+    "iso6393": [
+      "tie"
     ]
   },
   {
@@ -15378,7 +15611,7 @@
   {
     "wd": "Q37012",
     "label": "Celtiberian",
-    "native": "http://www.wikidata.org/.well-known/genid/b685ce1ddd9aaa56a28daa9d531ad20d",
+    "native": "http://www.wikidata.org/.well-known/genid/de0e54d2f59c82f60f836e2d9fdcf81e",
     "iso6393": [
       "xce"
     ]
@@ -15537,7 +15770,7 @@
   {
     "wd": "Q49224",
     "label": "Komering",
-    "native": "Cawa Kumoring",
+    "native": "Basa Kumoring",
     "iso6393": [
       "kge"
     ]
@@ -15579,7 +15812,7 @@
   {
     "wd": "Q49741",
     "label": "Central Atlas Tamazight",
-    "native": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏ ⵡⴰⵟⵍⴰⵙ ⴰⵏⴰⵎⵎⴰⵙ",
+    "native": "Tmaziɣt  n waṭlas anammas",
     "wmCode": [
       "tzm"
     ],
@@ -15590,7 +15823,7 @@
   {
     "wd": "Q50868",
     "label": "Egyptian",
-    "native": "r n km.t",
+    "native": "𓂋𓏤𓈖𓆎𓅓𓏏𓊖",
     "iso6392": [
       "egy"
     ],
@@ -15607,7 +15840,7 @@
   },
   {
     "wd": "Q56232",
-    "label": "Mesopotamian Arabic",
+    "label": "Iraqi Arabic",
     "native": "لهجة عراقية",
     "wmCode": [
       "acm"
@@ -15664,7 +15897,7 @@
   {
     "wd": "Q56240",
     "label": "Tunisian Arabic",
-    "native": "دارجة تونسية",
+    "native": "تونسي",
     "wmCode": [
       "tu"
     ],
@@ -16130,7 +16363,7 @@
   {
     "wd": "Q56312",
     "label": "Marwari",
-    "native": "मारवाड़ी",
+    "native": "مارواڑی",
     "wmCode": [
       "mwr"
     ],
@@ -16559,6 +16792,14 @@
     ]
   },
   {
+    "wd": "Q56377",
+    "label": "Ramree",
+    "native": "ရမ်းဗြဲဘာသာစကား",
+    "iso6393": [
+      "ybd"
+    ]
+  },
+  {
     "wd": "Q56378",
     "label": "Maram",
     "iso6393": [
@@ -16644,7 +16885,7 @@
   {
     "wd": "Q56390",
     "label": "Tahoua",
-    "native": "ⵜⴰⵎⴰⵌⵈ",
+    "native": "Tamajǝx",
     "iso6393": [
       "ttq"
     ]
@@ -16703,6 +16944,13 @@
     "label": "Digaro Mishmi",
     "iso6393": [
       "mhu"
+    ]
+  },
+  {
+    "wd": "Q56401",
+    "label": "Gelao",
+    "iso6393": [
+      "gio"
     ]
   },
   {
@@ -16778,6 +17026,7 @@
   {
     "wd": "Q56417",
     "label": "Arapaho",
+    "native": "Hinónoʼeitíít",
     "iso6392": [
       "arp"
     ],
@@ -16798,6 +17047,14 @@
     "native": "Hopilàvayi",
     "iso6393": [
       "hop"
+    ]
+  },
+  {
+    "wd": "Q56422",
+    "label": "Monégasque",
+    "native": "munegascu",
+    "wmCode": [
+      "lij-mc"
     ]
   },
   {
@@ -17090,7 +17347,7 @@
   {
     "wd": "Q56480",
     "label": "Lisu",
-    "native": "လီဆူဘာသာစကား",
+    "native": "ꓡꓲ-ꓢꓴ",
     "iso6393": [
       "lis"
     ]
@@ -17128,6 +17385,13 @@
     ],
     "iso6393": [
       "wym"
+    ]
+  },
+  {
+    "wd": "Q56487",
+    "label": "Kutchi language",
+    "iso6393": [
+      "kfr"
     ]
   },
   {
@@ -17186,7 +17450,7 @@
   {
     "wd": "Q56499",
     "label": "Algerian Arabic",
-    "native": "دريرية",
+    "native": "الجزائرية",
     "wmCode": [
       "arq"
     ],
@@ -17307,7 +17571,7 @@
   {
     "wd": "Q56516",
     "label": "Hani",
-    "native": "Tiếng Hà Nhì",
+    "native": "Haqniqdoq",
     "iso6393": [
       "hni"
     ],
@@ -17507,6 +17771,13 @@
     "label": "Thulung",
     "iso6393": [
       "tdh"
+    ]
+  },
+  {
+    "wd": "Q56554",
+    "label": "Jarawara",
+    "iso6393": [
+      "jap"
     ]
   },
   {
@@ -17807,6 +18078,13 @@
     ]
   },
   {
+    "wd": "Q56608",
+    "label": "Hijazi Arabic",
+    "iso6393": [
+      "acw"
+    ]
+  },
+  {
     "wd": "Q56609",
     "label": "Arutani",
     "iso6393": [
@@ -18027,7 +18305,7 @@
   {
     "wd": "Q56648",
     "label": "Abinomn",
-    "native": "http://www.wikidata.org/.well-known/genid/aab6f55b94ab19f1c89465eead0413c9",
+    "native": "http://www.wikidata.org/.well-known/genid/8a8280b58cbc94bcae4ed0eb9c2bddb2",
     "wmCode": [
       "bsa"
     ],
@@ -18377,6 +18655,7 @@
   {
     "wd": "Q56737",
     "label": "Iowa-Oto",
+    "native": "Báxoje ich'é",
     "iso6393": [
       "iow"
     ]
@@ -18462,6 +18741,7 @@
   {
     "wd": "Q56751",
     "label": "Pawnee",
+    "native": "pâri pakûru’",
     "iso6393": [
       "paw"
     ]
@@ -18994,6 +19274,13 @@
     ]
   },
   {
+    "wd": "Q56992",
+    "label": "Tangshewi",
+    "iso6393": [
+      "tnf"
+    ]
+  },
+  {
     "wd": "Q56994",
     "label": "Bwe Karen",
     "iso6393": [
@@ -19115,7 +19402,7 @@
   {
     "wd": "Q102172",
     "label": "Limburgish",
-    "native": "Plat",
+    "native": "Lèmbörgs",
     "wmCode": [
       "li"
     ],
@@ -19157,7 +19444,7 @@
   {
     "wd": "Q131339",
     "label": "Alemannic",
-    "native": "Schwyzerdütsch",
+    "native": "Alemannisch",
     "wmCode": [
       "als",
       "gsw"
@@ -19174,6 +19461,14 @@
     "label": "Ottawa",
     "iso6393": [
       "otw"
+    ]
+  },
+  {
+    "wd": "Q133800",
+    "label": "Shahmukhi",
+    "native": "ਸ਼ਾਹਮੁਖੀ",
+    "wmCode": [
+      "pnb"
     ]
   },
   {
@@ -19211,7 +19506,7 @@
   {
     "wd": "Q146803",
     "label": "Lingua Franca Nova",
-    "native": "Lingua Franca Nova",
+    "native": "elefen",
     "wmCode": [
       "lfn"
     ],
@@ -19222,7 +19517,7 @@
   {
     "wd": "Q148971",
     "label": "Interslavic",
-    "native": "Medžuslovjansky",
+    "native": "Меджусловјанскы",
     "iso6393": [
       "isv"
     ]
@@ -19378,6 +19673,13 @@
     ]
   },
   {
+    "wd": "Q205143",
+    "label": "Australian Aboriginal languages",
+    "iso6392": [
+      "aus"
+    ]
+  },
+  {
     "wd": "Q205979",
     "label": "Sogdian",
     "iso6392": [
@@ -19424,6 +19726,13 @@
     ]
   },
   {
+    "wd": "Q236425",
+    "label": "Papuan",
+    "iso6392": [
+      "paa"
+    ]
+  },
+  {
     "wd": "Q237409",
     "label": "Zeelandic",
     "native": "Zeêuws",
@@ -19445,7 +19754,7 @@
   {
     "wd": "Q241243",
     "label": "Provençal",
-    "native": "provençau",
+    "native": "prouvençau",
     "iso6393": [
       "prv"
     ]
@@ -19456,6 +19765,14 @@
     "native": "Langua emiglièna-rumagnôla",
     "wmCode": [
       "eml"
+    ]
+  },
+  {
+    "wd": "Q245899",
+    "label": "Cypriot Greek",
+    "native": "κυπριακά",
+    "wmCode": [
+      "el-cy"
     ]
   },
   {
@@ -19482,7 +19799,7 @@
   },
   {
     "wd": "Q254950",
-    "label": "Elfdalian",
+    "label": "Övdalian",
     "wmCode": [
       "ovd"
     ],
@@ -19681,6 +19998,13 @@
     ]
   },
   {
+    "wd": "Q337565",
+    "label": "Chakavian",
+    "iso6393": [
+      "ckm"
+    ]
+  },
+  {
     "wd": "Q337657",
     "label": "Mon-Khmer",
     "iso6392": [
@@ -19861,6 +20185,13 @@
     ]
   },
   {
+    "wd": "Q499344",
+    "label": "East Central German",
+    "wmCode": [
+      "gmw-x-ecg"
+    ]
+  },
+  {
     "wd": "Q500522",
     "label": "Aquitanian",
     "iso6393": [
@@ -19899,6 +20230,13 @@
     ]
   },
   {
+    "wd": "Q508854",
+    "label": "Gronings",
+    "iso6393": [
+      "gos"
+    ]
+  },
+  {
     "wd": "Q510544",
     "label": "Toromono",
     "iso6393": [
@@ -19918,6 +20256,13 @@
     "native": "Nederlaands Leegsaksies",
     "wmCode": [
       "nds-nl"
+    ]
+  },
+  {
+    "wd": "Q516721",
+    "label": "Ji-Lu Mandarin",
+    "iso6396": [
+      "jlua"
     ]
   },
   {
@@ -19976,6 +20321,7 @@
   {
     "wd": "Q531826",
     "label": "Yaghan",
+    "native": "Háusi Kúta",
     "iso6393": [
       "yag"
     ]
@@ -20010,6 +20356,13 @@
     "label": "Rawang",
     "iso6393": [
       "raw"
+    ]
+  },
+  {
+    "wd": "Q547462",
+    "label": "Milanese",
+    "wmCode": [
+      "lmo-x-milanese"
     ]
   },
   {
@@ -20063,7 +20416,7 @@
   {
     "wd": "Q584983",
     "label": "Rangi",
-    "native": "Langi",
+    "native": "Kɨlaangi",
     "wmCode": [
       "lag"
     ],
@@ -20261,6 +20614,14 @@
     ]
   },
   {
+    "wd": "Q662754",
+    "label": "Lan–Yin Mandarin",
+    "native": "لًاءٍ قُوًاخُوَا",
+    "iso6396": [
+      "lyiu"
+    ]
+  },
+  {
     "wd": "Q663586",
     "label": "Agariya",
     "iso6393": [
@@ -20350,11 +20711,69 @@
     ]
   },
   {
+    "wd": "Q688272",
+    "label": "Sutsilvan",
+    "native": "sutsilvan",
+    "wmCode": [
+      "rm-sutsilv"
+    ]
+  },
+  {
+    "wd": "Q688309",
+    "label": "Putèr",
+    "native": "puter",
+    "wmCode": [
+      "rm-puter"
+    ]
+  },
+  {
+    "wd": "Q688348",
+    "label": "Sursilvan",
+    "native": "Sursilvan",
+    "wmCode": [
+      "rm-sursilv"
+    ]
+  },
+  {
     "wd": "Q688873",
     "label": "Rumantsch Grischun",
     "native": "Rumantsch Grischun",
     "wmCode": [
       "rm-rumgr"
+    ]
+  },
+  {
+    "wd": "Q689894",
+    "label": "Gurmukhi",
+    "native": "ਗੁਰਮੁਖੀ",
+    "wmCode": [
+      "pa"
+    ]
+  },
+  {
+    "wd": "Q690216",
+    "label": "Surmiran",
+    "native": "surmiran",
+    "wmCode": [
+      "rm-surmiran"
+    ]
+  },
+  {
+    "wd": "Q690226",
+    "label": "Vallader",
+    "native": "vallader",
+    "wmCode": [
+      "rm-vallader"
+    ]
+  },
+  {
+    "wd": "Q695526",
+    "label": "Tarantino",
+    "native": "Tarandine",
+    "wmCode": [
+      "it-x-tara",
+      "nap-x-tara",
+      "roa-tara"
     ]
   },
   {
@@ -20370,6 +20789,13 @@
     "native": "고구려어",
     "iso6393": [
       "zkg"
+    ]
+  },
+  {
+    "wd": "Q710218",
+    "label": "Wenzhounese",
+    "iso6396": [
+      "wzhu"
     ]
   },
   {
@@ -20570,7 +20996,7 @@
   {
     "wd": "Q727694",
     "label": "Standard Chinese",
-    "native": "普通話",
+    "native": "华语",
     "iso6393": [
       "cmn"
     ],
@@ -20635,6 +21061,14 @@
     ]
   },
   {
+    "wd": "Q750553",
+    "label": "Brazilian Portuguese",
+    "native": "português do Brasil",
+    "wmCode": [
+      "pt-br"
+    ]
+  },
+  {
     "wd": "Q756651",
     "label": "Bactrian",
     "iso6393": [
@@ -20692,7 +21126,7 @@
   },
   {
     "wd": "Q765922",
-    "label": "Nagpuri language",
+    "label": "Nagpuri",
     "native": "नागपुरी",
     "iso6393": [
       "sck"
@@ -20808,10 +21242,31 @@
     ]
   },
   {
+    "wd": "Q815549",
+    "label": "Belgian French",
+    "wmCode": [
+      "fr-be"
+    ]
+  },
+  {
+    "wd": "Q831744",
+    "label": "Suzhou dialect",
+    "iso6396": [
+      "suji"
+    ]
+  },
+  {
     "wd": "Q832026",
     "label": "Gyalrong",
     "iso6393": [
       "jya"
+    ]
+  },
+  {
+    "wd": "Q836038",
+    "label": "Shiqi dialect",
+    "iso6396": [
+      "shiq"
     ]
   },
   {
@@ -20938,6 +21393,7 @@
   {
     "wd": "Q891085",
     "label": "Wayuu",
+    "native": "Wayuunaiki",
     "wmCode": [
       "guc"
     ],
@@ -21013,6 +21469,14 @@
     ]
   },
   {
+    "wd": "Q942602",
+    "label": "Languedocian",
+    "native": "Lengadocian",
+    "iso6393": [
+      "lnc"
+    ]
+  },
+  {
     "wd": "Q947858",
     "label": "Philippine",
     "iso6392": [
@@ -21035,10 +21499,24 @@
     ]
   },
   {
+    "wd": "Q949259",
+    "label": "Koibal",
+    "iso6393": [
+      "zkb"
+    ]
+  },
+  {
     "wd": "Q950585",
     "label": "Itonama",
     "iso6393": [
       "ito"
+    ]
+  },
+  {
+    "wd": "Q951473",
+    "label": "Mallorcan",
+    "iso6396": [
+      "mlrq"
     ]
   },
   {
@@ -21050,7 +21528,7 @@
   },
   {
     "wd": "Q953082",
-    "label": "U",
+    "label": "U language",
     "iso6393": [
       "uuu"
     ]
@@ -21128,6 +21606,13 @@
     ]
   },
   {
+    "wd": "Q968885",
+    "label": "Menorcan",
+    "iso6396": [
+      "mnrq"
+    ]
+  },
+  {
     "wd": "Q971060",
     "label": "Sumo",
     "iso6393": [
@@ -21161,6 +21646,7 @@
   {
     "wd": "Q977808",
     "label": "Nuxálk",
+    "native": "ItNuxalkmc",
     "iso6393": [
       "blc"
     ]
@@ -21175,7 +21661,7 @@
   {
     "wd": "Q1012917",
     "label": "Wutun",
-    "native": "Ngandehua",
+    "native": "ngandehua",
     "iso6393": [
       "wuh"
     ]
@@ -21185,6 +21671,13 @@
     "label": "Buru",
     "iso6393": [
       "bqw"
+    ]
+  },
+  {
+    "wd": "Q1021819",
+    "label": "Changzhou dialect",
+    "iso6396": [
+      "plig"
     ]
   },
   {
@@ -21199,6 +21692,13 @@
     "label": "Shompen",
     "iso6393": [
       "sii"
+    ]
+  },
+  {
+    "wd": "Q1048980",
+    "label": "Singaporean Mandarin",
+    "wmCode": [
+      "zh-sg"
     ]
   },
   {
@@ -21235,6 +21735,20 @@
     "label": "Khitan",
     "iso6393": [
       "zkt"
+    ]
+  },
+  {
+    "wd": "Q1064504",
+    "label": "Northeastern Mandarin",
+    "iso6396": [
+      "dbiu"
+    ]
+  },
+  {
+    "wd": "Q1066766",
+    "label": "Northern Uzbek",
+    "iso6393": [
+      "uzn"
     ]
   },
   {
@@ -21424,6 +21938,13 @@
     ]
   },
   {
+    "wd": "Q1147606",
+    "label": "Beijing dialect",
+    "iso6396": [
+      "bjjg"
+    ]
+  },
+  {
     "wd": "Q1153276",
     "label": "Tamambo",
     "iso6393": [
@@ -21454,7 +21975,7 @@
   {
     "wd": "Q1160372",
     "label": "Laz",
-    "native": "Lazuri",
+    "native": "ლაზური",
     "wmCode": [
       "lzz"
     ],
@@ -21515,6 +22036,9 @@
   {
     "wd": "Q1186896",
     "label": "Pipil",
+    "wmCode": [
+      "ppl"
+    ],
     "iso6393": [
       "ppl"
     ]
@@ -21551,7 +22075,7 @@
   {
     "wd": "Q1199751",
     "label": "Kelantan-Pattani Malay",
-    "native": "Bahasa Melayu Kelantan",
+    "native": "Bahasa Melayu Patani",
     "iso6393": [
       "mfa"
     ]
@@ -21559,6 +22083,7 @@
   {
     "wd": "Q1207611",
     "label": "Crow",
+    "native": "Apsáalooke aliláau",
     "iso6393": [
       "cro"
     ]
@@ -21728,6 +22253,13 @@
     ]
   },
   {
+    "wd": "Q1348800",
+    "label": "Indian English",
+    "wmCode": [
+      "en-in"
+    ]
+  },
+  {
     "wd": "Q1353320",
     "label": "Shina",
     "native": "ݜݨیاٗ",
@@ -21809,11 +22341,20 @@
   {
     "wd": "Q1377116",
     "label": "Kotava",
+    "native": "Kotava",
     "wmCode": [
       "avk"
     ],
     "iso6393": [
       "avk"
+    ]
+  },
+  {
+    "wd": "Q1404296",
+    "label": "Belgian Dutch",
+    "native": "Belgisch Nederlands",
+    "wmCode": [
+      "nl-be"
     ]
   },
   {
@@ -21864,6 +22405,21 @@
     ]
   },
   {
+    "wd": "Q1450506",
+    "label": "Canadian French",
+    "native": "français canadien",
+    "wmCode": [
+      "fr-ca"
+    ]
+  },
+  {
+    "wd": "Q1472196",
+    "label": "Early Modern English",
+    "iso6396": [
+      "emen"
+    ]
+  },
+  {
     "wd": "Q1472213",
     "label": "Ancient North Arabian",
     "iso6393": [
@@ -21908,6 +22464,13 @@
     ],
     "iso6393": [
       "sdh"
+    ]
+  },
+  {
+    "wd": "Q1510113",
+    "label": "Palmyrene Aramaic",
+    "wmCode": [
+      "sem-x-palmyren"
     ]
   },
   {
@@ -22000,6 +22563,14 @@
     "label": "Urarina",
     "iso6393": [
       "ura"
+    ]
+  },
+  {
+    "wd": "Q1624231",
+    "label": "Hokkien",
+    "native": "福建話",
+    "iso6396": [
+      "qzce"
     ]
   },
   {
@@ -22213,6 +22784,7 @@
   {
     "wd": "Q1815020",
     "label": "Alabama",
+    "native": "Albaamo innaaɬiilka",
     "wmCode": [
       "akz"
     ],
@@ -22295,6 +22867,7 @@
   {
     "wd": "Q1941682",
     "label": "Mocho’",
+    "native": "Qatoʼk",
     "iso6393": [
       "mhc"
     ]
@@ -22445,7 +23018,7 @@
   {
     "wd": "Q1991779",
     "label": "Southern Altai",
-    "native": "алтай тил",
+    "native": "алтайдыҥ тил",
     "wmCode": [
       "alt"
     ],
@@ -22632,6 +23205,14 @@
     ]
   },
   {
+    "wd": "Q2087886",
+    "label": "Taraškievica",
+    "native": "тарашкевіца",
+    "wmCode": [
+      "be-tarask"
+    ]
+  },
+  {
     "wd": "Q2088743",
     "label": "Kgalagadi",
     "iso6393": [
@@ -22724,6 +23305,13 @@
     ]
   },
   {
+    "wd": "Q2128953",
+    "label": "Lower Yangtze Mandarin",
+    "iso6396": [
+      "juai"
+    ]
+  },
+  {
     "wd": "Q2147917",
     "label": "Alawa",
     "iso6393": [
@@ -22795,6 +23383,13 @@
     ]
   },
   {
+    "wd": "Q2169652",
+    "label": "Beijing Mandarin",
+    "iso6396": [
+      "bjgh"
+    ]
+  },
+  {
     "wd": "Q2194290",
     "label": "Central Huasteca Nahuatl",
     "iso6393": [
@@ -22824,6 +23419,13 @@
     ]
   },
   {
+    "wd": "Q2208940",
+    "label": "Taishanese",
+    "iso6396": [
+      "tisa"
+    ]
+  },
+  {
     "wd": "Q2225391",
     "label": "Adnyamathanha",
     "iso6393": [
@@ -22842,6 +23444,14 @@
     "label": "Tây Bồi pidgin",
     "iso6393": [
       "tas"
+    ]
+  },
+  {
+    "wd": "Q2251677",
+    "label": "Quanzhou dialect",
+    "native": "Choân-chiu-ōe",
+    "iso6396": [
+      "quzh"
     ]
   },
   {
@@ -22883,6 +23493,7 @@
   {
     "wd": "Q2270532",
     "label": "Powhatan",
+    "native": "Kikitowämak",
     "iso6393": [
       "pim"
     ]
@@ -22984,6 +23595,7 @@
   {
     "wd": "Q2356431",
     "label": "Chibcha",
+    "native": "Muysccubun",
     "iso6392": [
       "chb"
     ],
@@ -23135,6 +23747,13 @@
     ]
   },
   {
+    "wd": "Q2391679",
+    "label": "Siyi dialect",
+    "iso6396": [
+      "siiy"
+    ]
+  },
+  {
     "wd": "Q2392342",
     "label": "Gurung",
     "iso6393": [
@@ -23233,7 +23852,7 @@
     "wd": "Q2417210",
     "label": "Old Swedish",
     "wmCode": [
-      "http://www.wikidata.org/.well-known/genid/462211b153b2c992f2b24252b066d182"
+      "http://www.wikidata.org/.well-known/genid/0b854c51289f7f37b64b7cdc86ea02bb"
     ]
   },
   {
@@ -23405,6 +24024,7 @@
   {
     "wd": "Q2484579",
     "label": "Squamish",
+    "native": "Sḵwx̱wú7mesh sníchim",
     "iso6393": [
       "squ"
     ]
@@ -23541,6 +24161,14 @@
     "label": "Northern Betsimisaraka Malagasy",
     "iso6393": [
       "bmm"
+    ]
+  },
+  {
+    "wd": "Q2562249",
+    "label": "Khufi",
+    "native": "Ҳӯф зиф",
+    "wmCode": [
+      "sgh-kh"
     ]
   },
   {
@@ -23738,6 +24366,21 @@
     ]
   },
   {
+    "wd": "Q2597550",
+    "label": "Jiao-Liao Mandarin",
+    "iso6396": [
+      "jliu"
+    ]
+  },
+  {
+    "wd": "Q2597566",
+    "label": "Rushani",
+    "native": "rix̌ůn ziv / риx̌у̊н зив",
+    "wmCode": [
+      "sgh-ru"
+    ]
+  },
+  {
     "wd": "Q2598797",
     "label": "Galambu",
     "iso6393": [
@@ -23754,7 +24397,7 @@
   {
     "wd": "Q2600085",
     "label": "Osage",
-    "native": "Wažáže ie",
+    "native": "𐓏𐒰𐓓𐒰𐓓𐒷 𐒻𐒷",
     "wmCode": [
       "osa"
     ],
@@ -23820,6 +24463,13 @@
     "label": "Mewati",
     "iso6393": [
       "wtm"
+    ]
+  },
+  {
+    "wd": "Q2609239",
+    "label": "Southwestern Mandarin",
+    "iso6396": [
+      "xghu"
     ]
   },
   {
@@ -24053,6 +24703,7 @@
   {
     "wd": "Q2669206",
     "label": "Shawnee",
+    "native": "sâwanwâtowêwe",
     "iso6393": [
       "sjw"
     ]
@@ -24103,7 +24754,7 @@
   },
   {
     "wd": "Q2669248",
-    "label": "Klamath",
+    "label": "Klamath-Modoc",
     "iso6393": [
       "kla"
     ]
@@ -24130,6 +24781,13 @@
     ]
   },
   {
+    "wd": "Q2669891",
+    "label": "Bergamasque",
+    "wmCode": [
+      "lmo-x-berg"
+    ]
+  },
+  {
     "wd": "Q2670418",
     "label": "Aka-Cari",
     "iso6393": [
@@ -24148,6 +24806,13 @@
     "label": "Western Huasteca Nahuatl",
     "iso6393": [
       "nhw"
+    ]
+  },
+  {
+    "wd": "Q2681098",
+    "label": "Nanjing dialect",
+    "iso6396": [
+      "njin"
     ]
   },
   {
@@ -24181,6 +24846,14 @@
     ]
   },
   {
+    "wd": "Q2705752",
+    "label": "Amoy",
+    "native": "厦门话",
+    "iso6396": [
+      "xame"
+    ]
+  },
+  {
     "wd": "Q2707343",
     "label": "Sebat Bet Gurage",
     "iso6393": [
@@ -24211,6 +24884,7 @@
   {
     "wd": "Q2721227",
     "label": "Ona",
+    "native": "Selkʼnamčan",
     "iso6393": [
       "ona"
     ]
@@ -24302,6 +24976,14 @@
     ]
   },
   {
+    "wd": "Q2746856",
+    "label": "Souletin",
+    "native": "Zuberera",
+    "iso6393": [
+      "bsz"
+    ]
+  },
+  {
     "wd": "Q2748229",
     "label": "Colombian Sign Language",
     "iso6393": [
@@ -24332,6 +25014,7 @@
   {
     "wd": "Q2760613",
     "label": "Land Dayak",
+    "native": "bahasa Dayak Darat",
     "iso6392": [
       "day"
     ]
@@ -24362,6 +25045,13 @@
     ],
     "iso6393": [
       "kae"
+    ]
+  },
+  {
+    "wd": "Q2779891",
+    "label": "Wuzhou Wu",
+    "iso6396": [
+      "wzou"
     ]
   },
   {
@@ -24401,6 +25091,13 @@
     "label": "Wandamen",
     "iso6393": [
       "wad"
+    ]
+  },
+  {
+    "wd": "Q2812583",
+    "label": "Gao-Yang Yue",
+    "iso6396": [
+      "goya"
     ]
   },
   {
@@ -25118,6 +25815,13 @@
     ]
   },
   {
+    "wd": "Q2919292",
+    "label": "Hebronics",
+    "iso6393": [
+      "yib"
+    ]
+  },
+  {
     "wd": "Q2925988",
     "label": "Brokskat",
     "iso6393": [
@@ -25256,6 +25960,17 @@
     "label": "Capanahua",
     "iso6393": [
       "kaq"
+    ]
+  },
+  {
+    "wd": "Q2937525",
+    "label": "Capisnon",
+    "native": "Kinapisnon",
+    "wmCode": [
+      "cps"
+    ],
+    "iso6393": [
+      "cps"
     ]
   },
   {
@@ -25512,7 +26227,7 @@
   {
     "wd": "Q2992833",
     "label": "Simeulue",
-    "native": "bahasa Defayan",
+    "native": "bahasa Simeulue",
     "iso6393": [
       "smr"
     ]
@@ -25963,6 +26678,13 @@
     "label": "Budza",
     "iso6393": [
       "bja"
+    ]
+  },
+  {
+    "wd": "Q3048775",
+    "label": "Central Plains Mandarin",
+    "iso6396": [
+      "zgyu"
     ]
   },
   {
@@ -26502,6 +27224,7 @@
   {
     "wd": "Q3111818",
     "label": "Gamilaraay",
+    "native": "Gamilaraay",
     "iso6393": [
       "kld"
     ]
@@ -26894,6 +27617,7 @@
   {
     "wd": "Q3135234",
     "label": "Hidatsa",
+    "native": "hiraaciré’",
     "iso6393": [
       "hid"
     ]
@@ -27085,6 +27809,7 @@
   {
     "wd": "Q3182562",
     "label": "Mahican",
+    "native": "Mã’eekaneeweexthowãakan",
     "iso6393": [
       "mjy"
     ]
@@ -27632,7 +28357,7 @@
   },
   {
     "wd": "Q3200540",
-    "label": "Kuri language",
+    "label": "Kuri",
     "native": "bahasa Modan",
     "iso6393": [
       "nbn"
@@ -28005,6 +28730,7 @@
   {
     "wd": "Q3244184",
     "label": "Antiguan and Barbudan Creole",
+    "native": "Aanteegan an' Baabyuudan",
     "iso6393": [
       "aig"
     ]
@@ -28701,7 +29427,7 @@
   {
     "wd": "Q3322093",
     "label": "South African Sign Language",
-    "native": "South African Sign Language",
+    "native": "Suid-Afrikaanse Gebaretaal",
     "iso6393": [
       "sfs"
     ]
@@ -29245,6 +29971,15 @@
     "label": "Orejón",
     "iso6393": [
       "ore"
+    ]
+  },
+  {
+    "wd": "Q3356620",
+    "label": "Oroshori",
+    "native": "rošorviǰ ziv / рошорвиҷ зив",
+    "wmCode": [
+      "sgh-oro",
+      "sgh-ro"
     ]
   },
   {
@@ -29821,6 +30556,7 @@
   {
     "wd": "Q3414490",
     "label": "Quileute",
+    "native": "Kʷòʔlíyotʼ",
     "iso6393": [
       "qui"
     ]
@@ -29903,6 +30639,20 @@
     "label": "Shao–Jiang Min",
     "iso6393": [
       "sjc"
+    ]
+  },
+  {
+    "wd": "Q3431648",
+    "label": "Guanzhong dialect",
+    "iso6396": [
+      "guzg"
+    ]
+  },
+  {
+    "wd": "Q3431721",
+    "label": "Mango dialect",
+    "iso6396": [
+      "maua"
     ]
   },
   {
@@ -30109,7 +30859,6 @@
   },
   {
     "wd": "Q3437607",
-    "label": "Tepes",
     "iso6393": [
       "teu"
     ]
@@ -30972,6 +31721,13 @@
     ]
   },
   {
+    "wd": "Q3443012",
+    "label": "Ying-Yi dialect",
+    "iso6396": [
+      "yiyi"
+    ]
+  },
+  {
     "wd": "Q3443734",
     "label": "Sikiana",
     "iso6393": [
@@ -31326,7 +32082,7 @@
   {
     "wd": "Q3449805",
     "label": "South Azerbaijani",
-    "native": "تۆرکجه",
+    "native": "آذربایجان دیلی",
     "wmCode": [
       "azb"
     ],
@@ -31713,6 +32469,7 @@
   {
     "wd": "Q3472220",
     "label": "Sanglechi",
+    "native": "sangleči zǝvūk",
     "iso6393": [
       "sgy"
     ]
@@ -31771,6 +32528,7 @@
   {
     "wd": "Q3479942",
     "label": "Serrano",
+    "native": "Maarrênga'twich",
     "iso6393": [
       "ser"
     ]
@@ -31880,6 +32638,20 @@
     "label": "Spokane language",
     "iso6393": [
       "spo"
+    ]
+  },
+  {
+    "wd": "Q3497239",
+    "label": "Chang-Du dialect",
+    "iso6396": [
+      "cagj"
+    ]
+  },
+  {
+    "wd": "Q3497763",
+    "label": "System X",
+    "wmCode": [
+      "eo-xsistemo"
     ]
   },
   {
@@ -32520,6 +33292,13 @@
     ]
   },
   {
+    "wd": "Q3505590",
+    "label": "System H",
+    "wmCode": [
+      "eo-hsistemo"
+    ]
+  },
+  {
     "wd": "Q3505736",
     "label": "Susquehannock",
     "iso6393": [
@@ -32545,6 +33324,13 @@
     "label": "Hieroglyphic Luwian",
     "iso6393": [
       "hlu"
+    ]
+  },
+  {
+    "wd": "Q3507488",
+    "label": "Akwáwa",
+    "iso6393": [
+      "asu"
     ]
   },
   {
@@ -32593,7 +33379,7 @@
   },
   {
     "wd": "Q3507907",
-    "label": "Aruáshi",
+    "label": "Aruá",
     "iso6393": [
       "arx"
     ]
@@ -33360,6 +34146,9 @@
     "wd": "Q3541834",
     "label": "Tucano",
     "native": "Dahseyé",
+    "wmCode": [
+      "tuo"
+    ],
     "iso6393": [
       "tuo"
     ]
@@ -33757,6 +34546,13 @@
     ]
   },
   {
+    "wd": "Q3636001",
+    "label": "Bajjika",
+    "iso6393": [
+      "vjk"
+    ]
+  },
+  {
     "wd": "Q3657773",
     "label": "Proto-Turkic",
     "wmCode": [
@@ -33765,7 +34561,7 @@
   },
   {
     "wd": "Q3658580",
-    "label": "Alanian",
+    "label": "Alanic",
     "iso6393": [
       "xln"
     ]
@@ -33824,6 +34620,13 @@
     "label": "Halbi",
     "iso6393": [
       "hlb"
+    ]
+  },
+  {
+    "wd": "Q3706583",
+    "label": "Cremish",
+    "wmCode": [
+      "lmo-x-cremish"
     ]
   },
   {
@@ -34053,7 +34856,7 @@
   {
     "wd": "Q3832977",
     "label": "Yoke",
-    "native": "bahasa Bitovondo",
+    "native": "bahasa Pauwi",
     "iso6393": [
       "yki"
     ]
@@ -34063,6 +34866,20 @@
     "label": "ǁAni",
     "iso6393": [
       "hnh"
+    ]
+  },
+  {
+    "wd": "Q3833010",
+    "label": "Mixe",
+    "wmCode": [
+      "mto"
+    ]
+  },
+  {
+    "wd": "Q3846710",
+    "label": "Zhenan Min",
+    "iso6396": [
+      "cnaq"
     ]
   },
   {
@@ -34113,7 +34930,7 @@
   {
     "wd": "Q3906614",
     "label": "Meadow Mari",
-    "native": "Олыкмарий йылме",
+    "native": "олык марий",
     "wmCode": [
       "mhr"
     ],
@@ -35056,6 +35873,13 @@
     ]
   },
   {
+    "wd": "Q3914433",
+    "label": "Kakihum",
+    "iso6393": [
+      "kxe"
+    ]
+  },
+  {
     "wd": "Q3914436",
     "label": "Dadiya",
     "iso6393": [
@@ -35917,7 +36741,7 @@
   {
     "wd": "Q3915462",
     "label": "Hausa Sign Language",
-    "native": "Maganar hannu",
+    "native": "maganar hannu",
     "iso6393": [
       "hsl"
     ]
@@ -36114,6 +36938,13 @@
     ]
   },
   {
+    "wd": "Q3915656",
+    "label": "Karafawyana",
+    "iso6393": [
+      "xkh"
+    ]
+  },
+  {
     "wd": "Q3915657",
     "label": "Amerax",
     "iso6393": [
@@ -36234,7 +37065,7 @@
   },
   {
     "wd": "Q3915702",
-    "label": "Yalgawarra",
+    "label": "Flinders Island language",
     "iso6393": [
       "fln"
     ]
@@ -36419,6 +37250,13 @@
     ]
   },
   {
+    "wd": "Q3943996",
+    "label": "Southern Zazaki",
+    "iso6393": [
+      "diq"
+    ]
+  },
+  {
     "wd": "Q3944007",
     "label": "Northern Zazaki",
     "native": "Shar Ma",
@@ -36427,6 +37265,13 @@
     ],
     "iso6393": [
       "kiu"
+    ]
+  },
+  {
+    "wd": "Q3972406",
+    "label": "Taizhou dialect",
+    "iso6396": [
+      "tzoj"
     ]
   },
   {
@@ -36510,6 +37355,13 @@
     ]
   },
   {
+    "wd": "Q4155022",
+    "label": "Darwazi",
+    "iso6393": [
+      "drw"
+    ]
+  },
+  {
     "wd": "Q4159744",
     "label": "Inku",
     "iso6393": [
@@ -36552,6 +37404,13 @@
     "label": "Memoni",
     "iso6393": [
       "mby"
+    ]
+  },
+  {
+    "wd": "Q4200688",
+    "label": "indigenous language of North America",
+    "iso6392": [
+      "nai"
     ]
   },
   {
@@ -36695,7 +37554,7 @@
   },
   {
     "wd": "Q4380827",
-    "label": "Taiwanese Mandarin",
+    "label": "Mandarin with Taiwan Hokkien accent",
     "wmCode": [
       "zh-tw"
     ]
@@ -36742,7 +37601,7 @@
   {
     "wd": "Q4477735",
     "label": "Afra",
-    "native": "bahasa Afra",
+    "native": "bahasa Usku",
     "iso6393": [
       "ulf"
     ]
@@ -36793,7 +37652,7 @@
   {
     "wd": "Q4670066",
     "label": "Tamasheq",
-    "native": "ⵜⵎⴰⵂⵈ",
+    "native": "tmahq",
     "iso6393": [
       "taq"
     ]
@@ -37804,7 +38663,7 @@
   },
   {
     "wd": "Q4941733",
-    "label": "Bonerif language",
+    "label": "Bonerif",
     "native": "bahasa Bonerif",
     "iso6393": [
       "bnv"
@@ -38260,6 +39119,13 @@
     ]
   },
   {
+    "wd": "Q5070258",
+    "label": "Chamula Tzotzil",
+    "iso6393": [
+      "tzc"
+    ]
+  },
+  {
     "wd": "Q5071694",
     "label": "Chang",
     "iso6393": [
@@ -38299,6 +39165,13 @@
     "label": "Cheng",
     "iso6393": [
       "jeg"
+    ]
+  },
+  {
+    "wd": "Q5091311",
+    "label": "Chengdu-Chongqing dialect",
+    "iso6396": [
+      "xghu"
     ]
   },
   {
@@ -38435,6 +39308,13 @@
     ]
   },
   {
+    "wd": "Q5116499",
+    "label": "Chuqu Wu",
+    "iso6396": [
+      "cuqu"
+    ]
+  },
+  {
     "wd": "Q5118412",
     "label": "Chuwabu",
     "iso6393": [
@@ -38555,6 +39435,13 @@
     "label": "Côông",
     "iso6393": [
       "cnc"
+    ]
+  },
+  {
+    "wd": "Q5207168",
+    "label": "Da-Tong dialect",
+    "iso6396": [
+      "dton"
     ]
   },
   {
@@ -39763,6 +40650,13 @@
     ]
   },
   {
+    "wd": "Q5588322",
+    "label": "Goulou Yue",
+    "iso6396": [
+      "gulu"
+    ]
+  },
+  {
     "wd": "Q5590235",
     "label": "Gozarkhani",
     "iso6393": [
@@ -39948,6 +40842,7 @@
   {
     "wd": "Q5637049",
     "label": "Hachijō dialects",
+    "native": "八丈方言",
     "iso6396": [
       "hhjm"
     ]
@@ -39964,6 +40859,13 @@
     "label": "Hagahai",
     "iso6393": [
       "pnn"
+    ]
+  },
+  {
+    "wd": "Q5639063",
+    "label": "Haifeng dialect",
+    "iso6396": [
+      "hife"
     ]
   },
   {
@@ -40000,6 +40902,13 @@
     "label": "Hangaza",
     "iso6393": [
       "han"
+    ]
+  },
+  {
+    "wd": "Q5648144",
+    "label": "Hangzhou dialect",
+    "iso6396": [
+      "hgou"
     ]
   },
   {
@@ -40068,6 +40977,7 @@
   {
     "wd": "Q5736700",
     "label": "Old Japanese",
+    "native": "上代日本語",
     "iso6393": [
       "ojp"
     ]
@@ -40154,6 +41064,13 @@
     "label": "Holiya",
     "iso6393": [
       "hoy"
+    ]
+  },
+  {
+    "wd": "Q5894342",
+    "label": "Hong Kong Cantonese",
+    "iso6396": [
+      "xgng"
     ]
   },
   {
@@ -40534,6 +41451,13 @@
     ]
   },
   {
+    "wd": "Q6144345",
+    "label": "Southern American English",
+    "wmCode": [
+      "en-us-so"
+    ]
+  },
+  {
     "wd": "Q6147825",
     "label": "Jaminjung",
     "iso6393": [
@@ -40566,6 +41490,20 @@
     "label": "Jhankot Sign Language",
     "iso6393": [
       "jhs"
+    ]
+  },
+  {
+    "wd": "Q6191241",
+    "label": "Ji-Xu Xiang",
+    "iso6396": [
+      "jiix"
+    ]
+  },
+  {
+    "wd": "Q6191447",
+    "label": "Jian'ou dialect",
+    "iso6396": [
+      "jaxi"
     ]
   },
   {
@@ -40717,6 +41655,13 @@
     ],
     "iso6393": [
       "cgc"
+    ]
+  },
+  {
+    "wd": "Q6346712",
+    "label": "Kagwahiva",
+    "iso6393": [
+      "tkf"
     ]
   },
   {
@@ -41996,7 +42941,7 @@
   },
   {
     "wd": "Q6443410",
-    "label": "Kumam",
+    "label": "Kumam dialect",
     "iso6393": [
       "kdi"
     ]
@@ -42201,7 +43146,7 @@
   },
   {
     "wd": "Q6450328",
-    "label": "Kwerba",
+    "label": "Airmati",
     "native": "bahasa Airmati",
     "iso6393": [
       "kwe"
@@ -42565,6 +43510,13 @@
     ]
   },
   {
+    "wd": "Q6530337",
+    "label": "Leshan dialect",
+    "iso6396": [
+      "mjic"
+    ]
+  },
+  {
     "wd": "Q6535860",
     "label": "Levuka",
     "native": "bahasa Levuka",
@@ -42819,6 +43771,13 @@
     "label": "Long Phuri",
     "iso6393": [
       "lpn"
+    ]
+  },
+  {
+    "wd": "Q6674568",
+    "label": "Longyan dialect",
+    "iso6396": [
+      "lyan"
     ]
   },
   {
@@ -43887,6 +44846,14 @@
     ]
   },
   {
+    "wd": "Q6874480",
+    "label": "Mirpuri",
+    "native": "ਮੀਰਪੁਰੀ",
+    "iso6393": [
+      "pmu"
+    ]
+  },
+  {
     "wd": "Q6875666",
     "label": "Misima",
     "iso6393": [
@@ -44657,6 +45624,13 @@
     ]
   },
   {
+    "wd": "Q7012696",
+    "label": "New Xiang",
+    "iso6396": [
+      "cayi"
+    ]
+  },
+  {
     "wd": "Q7021846",
     "label": "Ngadjunmaya",
     "iso6393": [
@@ -44864,6 +45838,14 @@
     "native": "kauq Noangz",
     "iso6393": [
       "zhn"
+    ]
+  },
+  {
+    "wd": "Q7049643",
+    "label": "Tidung",
+    "native": "Tidung",
+    "iso6393": [
+      "tid"
     ]
   },
   {
@@ -45145,6 +46127,13 @@
     "label": "Old Tibetan",
     "iso6393": [
       "otb"
+    ]
+  },
+  {
+    "wd": "Q7085453",
+    "label": "Old Xiang",
+    "iso6396": [
+      "louo"
     ]
   },
   {
@@ -45722,6 +46711,9 @@
   {
     "wd": "Q7187109",
     "label": "Phom",
+    "iso6392": [
+      "phg"
+    ],
     "iso6393": [
       "nph"
     ]
@@ -45909,6 +46901,13 @@
     ]
   },
   {
+    "wd": "Q7216573",
+    "label": "Fu'an dialect",
+    "iso6396": [
+      "fuua"
+    ]
+  },
+  {
     "wd": "Q7225957",
     "label": "Polonombauk",
     "iso6393": [
@@ -46047,7 +47046,7 @@
   {
     "wd": "Q7260479",
     "label": "Puno Quechua",
-    "native": "punu qichwa simi",
+    "native": "punu qhichwa simi",
     "wmCode": [
       "qxp"
     ],
@@ -46089,6 +47088,20 @@
     "label": "Pyen",
     "iso6393": [
       "pyy"
+    ]
+  },
+  {
+    "wd": "Q7267753",
+    "label": "Qin-Lian Yue",
+    "iso6396": [
+      "qnli"
+    ]
+  },
+  {
+    "wd": "Q7268014",
+    "label": "Xong",
+    "iso6396": [
+      "nrhg"
     ]
   },
   {
@@ -47721,6 +48734,13 @@
     ]
   },
   {
+    "wd": "Q7675790",
+    "label": "Tai Mène",
+    "iso6393": [
+      "tmp"
+    ]
+  },
+  {
     "wd": "Q7675795",
     "label": "Tai Pao",
     "iso6393": [
@@ -47749,6 +48769,13 @@
     ]
   },
   {
+    "wd": "Q7675988",
+    "label": "Taihu Wu",
+    "iso6396": [
+      "taiu"
+    ]
+  },
+  {
     "wd": "Q7676018",
     "label": "Taikat",
     "native": "bahasa Arso",
@@ -47768,6 +48795,13 @@
     "label": "Tairuma",
     "iso6393": [
       "uar"
+    ]
+  },
+  {
+    "wd": "Q7676678",
+    "label": "Taizhou Wu",
+    "iso6396": [
+      "tihu"
     ]
   },
   {
@@ -48109,6 +49143,13 @@
     ]
   },
   {
+    "wd": "Q7707309",
+    "label": "Texan English",
+    "wmCode": [
+      "en-us-tx"
+    ]
+  },
+  {
     "wd": "Q7708357",
     "label": "Texmelucan Zapotec",
     "iso6393": [
@@ -48176,6 +49217,13 @@
     "label": "Thuri",
     "iso6393": [
       "thu"
+    ]
+  },
+  {
+    "wd": "Q7800220",
+    "label": "Tianjin dialect",
+    "iso6396": [
+      "tjin"
     ]
   },
   {
@@ -49462,6 +50510,13 @@
     ]
   },
   {
+    "wd": "Q7982335",
+    "label": "Wencheng dialect",
+    "iso6396": [
+      "wceg"
+    ]
+  },
+  {
     "wd": "Q7983230",
     "label": "Were",
     "iso6393": [
@@ -49615,6 +50670,13 @@
     "label": "Woria",
     "iso6393": [
       "wor"
+    ]
+  },
+  {
+    "wd": "Q8038858",
+    "label": "Wu-Hua Yue",
+    "iso6396": [
+      "whua"
     ]
   },
   {
@@ -50023,6 +51085,13 @@
     ]
   },
   {
+    "wd": "Q8053438",
+    "label": "Yi-Liu dialect",
+    "iso6396": [
+      "yilu"
+    ]
+  },
+  {
     "wd": "Q8053734",
     "label": "Yinhawangka",
     "iso6393": [
@@ -50090,6 +51159,13 @@
     "label": "Yoloxóchitl Mixtec",
     "iso6393": [
       "xty"
+    ]
+  },
+  {
+    "wd": "Q8054950",
+    "label": "Yong-Xun Yue",
+    "iso6396": [
+      "yoxu"
     ]
   },
   {
@@ -50219,10 +51295,24 @@
     ]
   },
   {
+    "wd": "Q8070492",
+    "label": "Zhangzhou dialect",
+    "iso6396": [
+      "zzou"
+    ]
+  },
+  {
     "wd": "Q8070885",
     "label": "Zhoa",
     "iso6393": [
       "zhw"
+    ]
+  },
+  {
+    "wd": "Q8071810",
+    "label": "Zigong dialect",
+    "iso6396": [
+      "rfne"
     ]
   },
   {
@@ -50568,6 +51658,13 @@
     ]
   },
   {
+    "wd": "Q9283050",
+    "label": "Kociewie dialect",
+    "iso6396": [
+      "kcwi"
+    ]
+  },
+  {
     "wd": "Q9333703",
     "label": "Classical Sanskrit",
     "iso6393": [
@@ -50643,6 +51740,13 @@
     "label": "Tembé",
     "iso6393": [
       "tqb"
+    ]
+  },
+  {
+    "wd": "Q10386407",
+    "label": "Hainan Military Dialect",
+    "iso6396": [
+      "jnha"
     ]
   },
   {
@@ -51183,6 +52287,33 @@
     ]
   },
   {
+    "wd": "Q10894753",
+    "iso6396": [
+      "rfne"
+    ]
+  },
+  {
+    "wd": "Q10895019",
+    "label": "Junjiahua",
+    "iso6396": [
+      "jnha"
+    ]
+  },
+  {
+    "wd": "Q10901674",
+    "label": "Xiongnu",
+    "wmCode": [
+      "mis-xnu"
+    ]
+  },
+  {
+    "wd": "Q10939493",
+    "label": "Western Pahari",
+    "iso6392": [
+      "him"
+    ]
+  },
+  {
     "wd": "Q10949828",
     "label": "Ache Yi",
     "iso6393": [
@@ -51671,6 +52802,13 @@
     ]
   },
   {
+    "wd": "Q11006876",
+    "label": "Gbati-ri",
+    "iso6393": [
+      "gti"
+    ]
+  },
+  {
     "wd": "Q11007144",
     "label": "Phimbi",
     "iso6393": [
@@ -51769,6 +52907,13 @@
     ]
   },
   {
+    "wd": "Q11011534",
+    "label": "Ibilo",
+    "iso6393": [
+      "ibi"
+    ]
+  },
+  {
     "wd": "Q11011614",
     "label": "Likila",
     "iso6393": [
@@ -51801,6 +52946,13 @@
     "label": "Tembo",
     "iso6393": [
       "tmv"
+    ]
+  },
+  {
+    "wd": "Q11014183",
+    "label": "Kwak",
+    "iso6393": [
+      "kwq"
     ]
   },
   {
@@ -52084,10 +53236,37 @@
     ]
   },
   {
+    "wd": "Q11072558",
+    "iso6396": [
+      "mige"
+    ]
+  },
+  {
+    "wd": "Q11074683",
+    "label": "Chengdu dialect",
+    "iso6396": [
+      "cyuc"
+    ]
+  },
+  {
+    "wd": "Q11089375",
+    "label": "Jinjiang Dialect",
+    "iso6396": [
+      "jiji"
+    ]
+  },
+  {
     "wd": "Q11092831",
     "label": "Mulao",
     "iso6393": [
       "giu"
+    ]
+  },
+  {
+    "wd": "Q11102797",
+    "label": "Kunfal",
+    "iso6393": [
+      "xuf"
     ]
   },
   {
@@ -52098,10 +53277,24 @@
     ]
   },
   {
+    "wd": "Q11111664",
+    "label": "Guiliu Dialect",
+    "iso6396": [
+      "gili"
+    ]
+  },
+  {
     "wd": "Q11120157",
     "label": "Samba",
     "iso6393": [
       "smx"
+    ]
+  },
+  {
+    "wd": "Q11124731",
+    "label": "Wuhan dialect",
+    "iso6396": [
+      "xghu"
     ]
   },
   {
@@ -52231,6 +53424,13 @@
     ]
   },
   {
+    "wd": "Q11131679",
+    "label": "Yong'an dialect",
+    "iso6396": [
+      "ygan"
+    ]
+  },
+  {
     "wd": "Q11132859",
     "label": "Ngbinda",
     "iso6393": [
@@ -52298,6 +53498,13 @@
     "label": "Lhao Vo",
     "iso6393": [
       "mhx"
+    ]
+  },
+  {
+    "wd": "Q11150395",
+    "label": "Haikou dialect",
+    "iso6396": [
+      "haku"
     ]
   },
   {
@@ -53557,7 +54764,7 @@
   },
   {
     "wd": "Q12497929",
-    "label": "Palembang",
+    "label": "Palembang language",
     "native": "baso Pelémbang",
     "iso6393": [
       "plm"
@@ -53638,6 +54845,13 @@
     "label": "Blafe",
     "iso6393": [
       "bfh"
+    ]
+  },
+  {
+    "wd": "Q12628660",
+    "label": "West Central Quiché",
+    "iso6393": [
+      "qut"
     ]
   },
   {
@@ -53768,13 +54982,6 @@
     ]
   },
   {
-    "wd": "Q12631018",
-    "label": "Finallig",
-    "iso6393": [
-      "bkb"
-    ]
-  },
-  {
     "wd": "Q12631584",
     "label": "Gofa",
     "iso6393": [
@@ -53807,6 +55014,13 @@
     "label": "Haruai",
     "iso6393": [
       "tmd"
+    ]
+  },
+  {
+    "wd": "Q12632397",
+    "label": "Horuru",
+    "iso6393": [
+      "hrr"
     ]
   },
   {
@@ -53849,6 +55063,13 @@
     "label": "Ipalapa Amuzgo",
     "iso6393": [
       "azm"
+    ]
+  },
+  {
+    "wd": "Q12633016",
+    "label": "Ipeka-Tapuia",
+    "iso6393": [
+      "paj"
     ]
   },
   {
@@ -53905,10 +55126,41 @@
     ]
   },
   {
+    "wd": "Q12634001",
+    "label": "Southern Balochi",
+    "wmCode": [
+      "bcc"
+    ],
+    "iso6393": [
+      "bcc"
+    ]
+  },
+  {
+    "wd": "Q12634007",
+    "label": "Southern Pesisir",
+    "iso6393": [
+      "pec"
+    ]
+  },
+  {
     "wd": "Q12634070",
     "label": "Kachama-Ganjule",
     "iso6393": [
       "kcx"
+    ]
+  },
+  {
+    "wd": "Q12634084",
+    "label": "Kahayan",
+    "iso6393": [
+      "xah"
+    ]
+  },
+  {
+    "wd": "Q12634352",
+    "label": "Kayu Agung",
+    "iso6393": [
+      "vky"
     ]
   },
   {
@@ -53923,6 +55175,13 @@
     "label": "Cuneiform Luwian",
     "iso6393": [
       "xlu"
+    ]
+  },
+  {
+    "wd": "Q12634963",
+    "label": "Krui",
+    "iso6393": [
+      "krq"
     ]
   },
   {
@@ -53955,6 +55214,13 @@
     ]
   },
   {
+    "wd": "Q12635536",
+    "label": "Lingkhim",
+    "iso6393": [
+      "lii"
+    ]
+  },
+  {
     "wd": "Q12635807",
     "label": "Lower Grand Valley Dani",
     "iso6393": [
@@ -53963,7 +55229,7 @@
   },
   {
     "wd": "Q12635887",
-    "label": "Lumbee language",
+    "label": "Lumbee",
     "iso6393": [
       "lmz"
     ]
@@ -54103,6 +55369,13 @@
     ]
   },
   {
+    "wd": "Q12640722",
+    "label": "Pubian",
+    "iso6393": [
+      "pun"
+    ]
+  },
+  {
     "wd": "Q12640726",
     "label": "Pudtol Atta",
     "iso6393": [
@@ -54181,6 +55454,13 @@
     ]
   },
   {
+    "wd": "Q12642167",
+    "label": "Northern Cakchiquel",
+    "iso6393": [
+      "ckc"
+    ]
+  },
+  {
     "wd": "Q12642194",
     "label": "Northern Pashto",
     "iso6393": [
@@ -54223,6 +55503,13 @@
     "label": "Middle Cornish",
     "iso6393": [
       "cnx"
+    ]
+  },
+  {
+    "wd": "Q12642970",
+    "label": "Sungkai",
+    "iso6393": [
+      "suu"
     ]
   },
   {
@@ -54310,6 +55597,13 @@
     ]
   },
   {
+    "wd": "Q12645389",
+    "label": "Yepocapa Southwestern Cakchiquel",
+    "iso6393": [
+      "cbm"
+    ]
+  },
+  {
     "wd": "Q12645448",
     "label": "Yutanduchi Mixtec",
     "iso6393": [
@@ -54331,6 +55625,16 @@
     ]
   },
   {
+    "wd": "Q12645561",
+    "label": "Western Balochi",
+    "wmCode": [
+      "bgn"
+    ],
+    "iso6393": [
+      "bgn"
+    ]
+  },
+  {
     "wd": "Q12645568",
     "label": "Western Keres",
     "iso6393": [
@@ -54342,6 +55646,13 @@
     "label": "Western Cham",
     "iso6393": [
       "cja"
+    ]
+  },
+  {
+    "wd": "Q12645731",
+    "label": "Zinacantán Tzotzil",
+    "iso6393": [
+      "tzz"
     ]
   },
   {
@@ -54406,6 +55717,13 @@
     "label": "Southern Bai",
     "iso6393": [
       "bfs"
+    ]
+  },
+  {
+    "wd": "Q12952252",
+    "label": "Eastern Balochi",
+    "iso6393": [
+      "bgp"
     ]
   },
   {
@@ -54528,6 +55846,13 @@
     ]
   },
   {
+    "wd": "Q12952415",
+    "label": "Enim",
+    "iso6393": [
+      "eni"
+    ]
+  },
+  {
     "wd": "Q12952416",
     "label": "Erave",
     "iso6393": [
@@ -54637,6 +55962,13 @@
     "label": "Gorakor",
     "iso6393": [
       "goc"
+    ]
+  },
+  {
+    "wd": "Q12952472",
+    "label": "Eastern Gurung",
+    "iso6393": [
+      "ggn"
     ]
   },
   {
@@ -55000,6 +56332,13 @@
     ]
   },
   {
+    "wd": "Q12952727",
+    "label": "Lintang",
+    "iso6393": [
+      "lnt"
+    ]
+  },
+  {
     "wd": "Q12952740",
     "label": "Lopi",
     "iso6393": [
@@ -55144,6 +56483,13 @@
     "label": "Mbalanhu",
     "iso6393": [
       "lnb"
+    ]
+  },
+  {
+    "wd": "Q12952836",
+    "label": "Mea",
+    "iso6393": [
+      "meg"
     ]
   },
   {
@@ -55302,6 +56648,13 @@
     ]
   },
   {
+    "wd": "Q12952961",
+    "label": "Nisi",
+    "iso6393": [
+      "dap"
+    ]
+  },
+  {
     "wd": "Q12952967",
     "label": "Nora",
     "iso6393": [
@@ -55336,6 +56689,13 @@
     "label": "Pamosu",
     "iso6393": [
       "hih"
+    ]
+  },
+  {
+    "wd": "Q12953012",
+    "label": "Panang",
+    "iso6393": [
+      "pcr"
     ]
   },
   {
@@ -55419,6 +56779,14 @@
     ]
   },
   {
+    "wd": "Q12953117",
+    "label": "Semende",
+    "native": "bahasa Semende",
+    "iso6393": [
+      "sdd"
+    ]
+  },
+  {
     "wd": "Q12953126",
     "label": "Shahmirzadi",
     "iso6393": [
@@ -55437,6 +56805,13 @@
     "label": "Southern Marakwet",
     "iso6393": [
       "tle"
+    ]
+  },
+  {
+    "wd": "Q12953174",
+    "label": "Talur",
+    "iso6393": [
+      "ilw"
     ]
   },
   {
@@ -55508,6 +56883,13 @@
     "native": "bahasa Tereweng",
     "iso6393": [
       "twg"
+    ]
+  },
+  {
+    "wd": "Q12953213",
+    "label": "Tomyang",
+    "iso6393": [
+      "tmx"
     ]
   },
   {
@@ -55612,6 +56994,13 @@
     ]
   },
   {
+    "wd": "Q12953299",
+    "label": "South Wemale",
+    "iso6393": [
+      "tlw"
+    ]
+  },
+  {
     "wd": "Q12953302",
     "label": "Gambian Wolof",
     "iso6393": [
@@ -55703,6 +57092,13 @@
     "label": "Wusa Nasu",
     "iso6393": [
       "yig"
+    ]
+  },
+  {
+    "wd": "Q12953335",
+    "label": "Dayao Yi",
+    "iso6393": [
+      "yio"
     ]
   },
   {
@@ -55882,6 +57278,13 @@
     ]
   },
   {
+    "wd": "Q12953514",
+    "label": "Tambunan Dusun",
+    "iso6393": [
+      "kzt"
+    ]
+  },
+  {
     "wd": "Q12953516",
     "label": "Edopi",
     "native": "bahasa Dosobou",
@@ -56030,6 +57433,13 @@
     ]
   },
   {
+    "wd": "Q12953569",
+    "label": "Southeastern Huastec",
+    "iso6393": [
+      "hsf"
+    ]
+  },
+  {
     "wd": "Q12953578",
     "label": "Batad",
     "iso6393": [
@@ -56086,6 +57496,34 @@
     ]
   },
   {
+    "wd": "Q12953589",
+    "label": "Joyabaj Quiché",
+    "iso6393": [
+      "quj"
+    ]
+  },
+  {
+    "wd": "Q12953590",
+    "label": "San Andrés Quiché",
+    "iso6393": [
+      "qxi"
+    ]
+  },
+  {
+    "wd": "Q12953591",
+    "label": "Chajul Ixil",
+    "iso6393": [
+      "ixj"
+    ]
+  },
+  {
+    "wd": "Q12953593",
+    "label": "Eastern Quiché",
+    "iso6393": [
+      "quu"
+    ]
+  },
+  {
     "wd": "Q12953594",
     "label": "Klias River Kadazan",
     "iso6393": [
@@ -56116,7 +57554,7 @@
   },
   {
     "wd": "Q12953609",
-    "label": "Northern Kankanay",
+    "label": "Applai Kankanaey",
     "iso6393": [
       "xnn"
     ]
@@ -56126,6 +57564,20 @@
     "label": "Kanjari",
     "iso6393": [
       "kft"
+    ]
+  },
+  {
+    "wd": "Q12953613",
+    "label": "Santa María De Jesús Cakchiquel",
+    "iso6393": [
+      "cki"
+    ]
+  },
+  {
+    "wd": "Q12953614",
+    "label": "Santo Domingo Xenacoj Cakchiquel",
+    "iso6393": [
+      "ckj"
     ]
   },
   {
@@ -56221,6 +57673,13 @@
     ]
   },
   {
+    "wd": "Q12953669",
+    "label": "Lasi",
+    "iso6393": [
+      "lss"
+    ]
+  },
+  {
     "wd": "Q12953671",
     "label": "Gade Lohar",
     "iso6393": [
@@ -56296,6 +57755,20 @@
     "label": "Mahali",
     "iso6393": [
       "mjx"
+    ]
+  },
+  {
+    "wd": "Q12953691",
+    "label": "Central Mam",
+    "iso6393": [
+      "mvc"
+    ]
+  },
+  {
+    "wd": "Q12953695",
+    "label": "Tajumulco Mam",
+    "iso6393": [
+      "mpf"
     ]
   },
   {
@@ -56622,6 +58095,13 @@
     ]
   },
   {
+    "wd": "Q12953822",
+    "label": "Western Pokomchí",
+    "iso6393": [
+      "pob"
+    ]
+  },
+  {
     "wd": "Q12953831",
     "label": "Santa Ana de Tusi Pasco Quechua",
     "iso6393": [
@@ -56876,6 +58356,13 @@
     ]
   },
   {
+    "wd": "Q12953931",
+    "label": "Patla-Chicontla Totonac",
+    "iso6393": [
+      "tot"
+    ]
+  },
+  {
     "wd": "Q12953934",
     "label": "Itunyoso Triqui",
     "iso6393": [
@@ -56901,6 +58388,41 @@
     "label": "Barro Negro Tunebo",
     "iso6393": [
       "tbn"
+    ]
+  },
+  {
+    "wd": "Q12953946",
+    "label": "Western Tz'utujil",
+    "iso6393": [
+      "tzt"
+    ]
+  },
+  {
+    "wd": "Q12953947",
+    "label": "Chenalhó Tzotzil",
+    "iso6393": [
+      "tze"
+    ]
+  },
+  {
+    "wd": "Q12953948",
+    "label": "San Andrés Larrainzar Tzotzil",
+    "iso6393": [
+      "tzs"
+    ]
+  },
+  {
+    "wd": "Q12953950",
+    "label": "Huixtán Tzotzil",
+    "iso6393": [
+      "tzu"
+    ]
+  },
+  {
+    "wd": "Q12953951",
+    "label": "Bachajón Tzeltal",
+    "iso6393": [
+      "tzb"
     ]
   },
   {
@@ -57142,6 +58664,13 @@
     ]
   },
   {
+    "wd": "Q13108281",
+    "label": "Loup B",
+    "iso6393": [
+      "xlb"
+    ]
+  },
+  {
     "wd": "Q13123376",
     "label": "Ede Idaca",
     "iso6393": [
@@ -57283,6 +58812,14 @@
     ]
   },
   {
+    "wd": "Q13560607",
+    "label": "Jadgali",
+    "native": "جَدگَالِي",
+    "iso6393": [
+      "jdg"
+    ]
+  },
+  {
     "wd": "Q13561407",
     "label": "Kalumpang",
     "iso6393": [
@@ -57323,6 +58860,13 @@
     "label": "Sierra Otomi",
     "iso6393": [
       "otm"
+    ]
+  },
+  {
+    "wd": "Q13583347",
+    "label": "Jinhua dialect",
+    "iso6396": [
+      "jiua"
     ]
   },
   {
@@ -57424,6 +58968,13 @@
     ]
   },
   {
+    "wd": "Q13646143",
+    "label": "Malaysian Mandarin",
+    "wmCode": [
+      "zh-my"
+    ]
+  },
+  {
     "wd": "Q13653138",
     "label": "Ngura",
     "iso6393": [
@@ -57506,6 +59057,13 @@
     "label": "Luopohe Miao",
     "iso6393": [
       "hml"
+    ]
+  },
+  {
+    "wd": "Q14507109",
+    "label": "Portuguese-based creole languages",
+    "iso6392": [
+      "cpp"
     ]
   },
   {
@@ -57878,6 +59436,13 @@
     ]
   },
   {
+    "wd": "Q15895753",
+    "label": "Fuqing dialect",
+    "iso6396": [
+      "fuqi"
+    ]
+  },
+  {
     "wd": "Q15895870",
     "label": "Wewaw",
     "iso6393": [
@@ -57885,10 +59450,85 @@
     ]
   },
   {
+    "wd": "Q15899756",
+    "label": "Xiapu dialect",
+    "iso6396": [
+      "xipu"
+    ]
+  },
+  {
+    "wd": "Q15902531",
+    "label": "Chongqing dialect",
+    "iso6396": [
+      "cyuc"
+    ]
+  },
+  {
+    "wd": "Q15912563",
+    "iso6396": [
+      "qibe"
+    ]
+  },
+  {
+    "wd": "Q15923670",
+    "label": "Shiling dialects",
+    "iso6396": [
+      "silg"
+    ]
+  },
+  {
+    "wd": "Q15929182",
+    "label": "Tonggu Hakka",
+    "iso6396": [
+      "togu"
+    ]
+  },
+  {
+    "wd": "Q15929550",
+    "label": "Tingzhou dialect",
+    "iso6396": [
+      "tigz"
+    ]
+  },
+  {
+    "wd": "Q15932045",
+    "label": "Yu Gui dialects",
+    "iso6396": [
+      "yugi"
+    ]
+  },
+  {
+    "wd": "Q15935111",
+    "label": "Yuebei Cantonese Hakka",
+    "iso6396": [
+      "yebi"
+    ]
+  },
+  {
     "wd": "Q15936110",
     "label": "Tibetan Sign Language",
     "iso6393": [
       "lsn"
+    ]
+  },
+  {
+    "wd": "Q15936433",
+    "label": "Ning Long Hakka",
+    "iso6396": [
+      "nnlo"
+    ]
+  },
+  {
+    "wd": "Q15937822",
+    "label": "Zhangping dialect",
+    "iso6396": [
+      "zgpg"
+    ]
+  },
+  {
+    "wd": "Q15937915",
+    "iso6396": [
+      "yeon"
     ]
   },
   {
@@ -58388,6 +60028,13 @@
     ]
   },
   {
+    "wd": "Q16930647",
+    "label": "Jianyang dialect",
+    "iso6396": [
+      "jyhu"
+    ]
+  },
+  {
     "wd": "Q16934745",
     "label": "Gbin",
     "iso6393": [
@@ -58451,10 +60098,23 @@
     ]
   },
   {
+    "wd": "Q17023650",
+    "iso6396": [
+      "qibe"
+    ]
+  },
+  {
     "wd": "Q17027255",
     "label": "Burmese Sign Language",
     "iso6393": [
       "ysm"
+    ]
+  },
+  {
+    "wd": "Q17028746",
+    "label": "Tongjing dialects",
+    "iso6396": [
+      "toji"
     ]
   },
   {
@@ -58476,6 +60136,12 @@
     "label": "Yirandhali",
     "iso6393": [
       "ljw"
+    ]
+  },
+  {
+    "wd": "Q17062617",
+    "iso6396": [
+      "cnji"
     ]
   },
   {
@@ -58613,6 +60279,13 @@
     ]
   },
   {
+    "wd": "Q18118476",
+    "label": "Wenchang dialect",
+    "iso6396": [
+      "wchg"
+    ]
+  },
+  {
     "wd": "Q18168288",
     "label": "Kadiweu",
     "iso6393": [
@@ -58731,7 +60404,7 @@
   },
   {
     "wd": "Q18546266",
-    "label": "NKo",
+    "label": "N’Ko",
     "wmCode": [
       "nqo"
     ],
@@ -58864,6 +60537,21 @@
     ]
   },
   {
+    "wd": "Q18748007",
+    "label": "Putian",
+    "native": "Pó-chéng-uā",
+    "iso6396": [
+      "ptia"
+    ]
+  },
+  {
+    "wd": "Q18748008",
+    "label": "Xianyou dialect",
+    "iso6396": [
+      "xyou"
+    ]
+  },
+  {
     "wd": "Q18748212",
     "label": "Ibatan",
     "iso6393": [
@@ -58949,9 +60637,16 @@
   },
   {
     "wd": "Q18753329",
-    "label": "Kankanaey",
+    "label": "Kankanaey language",
     "iso6393": [
       "kne"
+    ]
+  },
+  {
+    "wd": "Q18755512",
+    "label": "Malay Aklanon",
+    "iso6393": [
+      "mlz"
     ]
   },
   {
@@ -58987,6 +60682,34 @@
     "label": "Eastern Tawbuid",
     "iso6393": [
       "bnj"
+    ]
+  },
+  {
+    "wd": "Q18941249",
+    "label": "Ningde dialect",
+    "iso6396": [
+      "ngde"
+    ]
+  },
+  {
+    "wd": "Q18943758",
+    "label": "Houguang dialects",
+    "iso6396": [
+      "mgse"
+    ]
+  },
+  {
+    "wd": "Q18943896",
+    "label": "Funing dialects",
+    "iso6396": [
+      "mgno"
+    ]
+  },
+  {
+    "wd": "Q18944085",
+    "label": "Gutian dialect",
+    "iso6396": [
+      "guta"
     ]
   },
   {
@@ -59039,10 +60762,31 @@
     ]
   },
   {
+    "wd": "Q19599280",
+    "label": "Matsu dialect",
+    "iso6396": [
+      "masu"
+    ]
+  },
+  {
+    "wd": "Q19683211",
+    "label": "Sanming dialect",
+    "iso6396": [
+      "snmi"
+    ]
+  },
+  {
     "wd": "Q19694214",
     "label": "South Marquesan",
     "iso6393": [
       "mqm"
+    ]
+  },
+  {
+    "wd": "Q19724471",
+    "label": "Changting dialect",
+    "iso6396": [
+      "tiou"
     ]
   },
   {
@@ -59064,6 +60808,121 @@
     "label": "Yolmo",
     "iso6393": [
       "scp"
+    ]
+  },
+  {
+    "wd": "Q19842517",
+    "label": "Qianlu dialect",
+    "iso6396": [
+      "dtia"
+    ]
+  },
+  {
+    "wd": "Q19852132",
+    "iso6396": [
+      "zuin"
+    ]
+  },
+  {
+    "wd": "Q19852223",
+    "iso6396": [
+      "soui"
+    ]
+  },
+  {
+    "wd": "Q19852850",
+    "label": "Zherong Dialect",
+    "iso6396": [
+      "zrog"
+    ]
+  },
+  {
+    "wd": "Q19853248",
+    "label": "Fuding dialect",
+    "iso6396": [
+      "fudg"
+    ]
+  },
+  {
+    "wd": "Q19855021",
+    "label": "Nanping dialect",
+    "iso6396": [
+      "npgu"
+    ]
+  },
+  {
+    "wd": "Q19855347",
+    "iso6396": [
+      "yebi"
+    ]
+  },
+  {
+    "wd": "Q19855358",
+    "iso6396": [
+      "yebi"
+    ]
+  },
+  {
+    "wd": "Q19855492",
+    "label": "Houlu dialect",
+    "iso6396": [
+      "wjib"
+    ]
+  },
+  {
+    "wd": "Q19855572",
+    "label": "Datian Min",
+    "iso6396": [
+      "dtii"
+    ]
+  },
+  {
+    "wd": "Q19855591",
+    "label": "Siheung Dialect",
+    "iso6396": [
+      "yebi"
+    ]
+  },
+  {
+    "wd": "Q19855654",
+    "label": "Chong'an",
+    "iso6396": [
+      "cygx"
+    ]
+  },
+  {
+    "wd": "Q19855758",
+    "label": "Zhenghe",
+    "iso6396": [
+      "zege"
+    ]
+  },
+  {
+    "wd": "Q19855892",
+    "label": "Songxi",
+    "iso6396": [
+      "sgxi"
+    ]
+  },
+  {
+    "wd": "Q19855966",
+    "label": "Shaxian dialect",
+    "iso6396": [
+      "saxi"
+    ]
+  },
+  {
+    "wd": "Q19856291",
+    "label": "Lianjiang Dialect",
+    "iso6396": [
+      "liji"
+    ]
+  },
+  {
+    "wd": "Q19856351",
+    "label": "Changle Dialect (Mindong)",
+    "iso6396": [
+      "cgle"
     ]
   },
   {
@@ -59121,6 +60980,26 @@
     ]
   },
   {
+    "wd": "Q20062824",
+    "iso6396": [
+      "qnan"
+    ]
+  },
+  {
+    "wd": "Q20063810",
+    "label": "Chaoyang dialect",
+    "iso6396": [
+      "cyag"
+    ]
+  },
+  {
+    "wd": "Q20064213",
+    "label": "Lufeng dialect",
+    "iso6396": [
+      "lfen"
+    ]
+  },
+  {
     "wd": "Q20064918",
     "label": "Diegueño",
     "iso6393": [
@@ -59147,6 +61026,7 @@
   {
     "wd": "Q20162127",
     "label": "Kickapoo",
+    "native": "metotheeneniaatoweeheni",
     "iso6393": [
       "kic"
     ]
@@ -59220,6 +61100,13 @@
     "label": "Ayizi",
     "iso6393": [
       "yyz"
+    ]
+  },
+  {
+    "wd": "Q20527402",
+    "label": "Banawá",
+    "iso6393": [
+      "bnh"
     ]
   },
   {
@@ -59304,6 +61191,19 @@
     "label": "Bädi Kanum",
     "iso6393": [
       "khd"
+    ]
+  },
+  {
+    "wd": "Q20923490",
+    "label": "multiple languages",
+    "wmCode": [
+      "mul"
+    ],
+    "iso6392": [
+      "mul"
+    ],
+    "iso6393": [
+      "mul"
     ]
   },
   {
@@ -59514,7 +61414,7 @@
   },
   {
     "wd": "Q22338135",
-    "label": "Uyghur in Arabic script",
+    "label": "Uyghur Arabic script",
     "native": "ئۇيغۇر تىلى",
     "wmCode": [
       "ug-arab"
@@ -59688,6 +61588,13 @@
     ]
   },
   {
+    "wd": "Q24841605",
+    "label": "Shehua",
+    "iso6396": [
+      "sehu"
+    ]
+  },
+  {
     "wd": "Q24841726",
     "label": "Putonghua",
     "native": "普通话",
@@ -59802,10 +61709,24 @@
     ]
   },
   {
+    "wd": "Q25559304",
+    "label": "Parsi",
+    "iso6393": [
+      "prp"
+    ]
+  },
+  {
     "wd": "Q25559314",
     "label": "Classical Mandaic",
     "iso6393": [
       "myz"
+    ]
+  },
+  {
+    "wd": "Q25559316",
+    "label": "Sara Dunjo",
+    "iso6393": [
+      "koj"
     ]
   },
   {
@@ -59826,6 +61747,13 @@
     "label": "East Nyala",
     "iso6393": [
       "nle"
+    ]
+  },
+  {
+    "wd": "Q25559393",
+    "label": "!O!ung",
+    "iso6393": [
+      "oun"
     ]
   },
   {
@@ -60033,10 +61961,66 @@
     ]
   },
   {
+    "wd": "Q25559621",
+    "label": "Southern Mam",
+    "iso6393": [
+      "mms"
+    ]
+  },
+  {
+    "wd": "Q25559633",
+    "label": "Eastern Pokomam",
+    "iso6393": [
+      "poa"
+    ]
+  },
+  {
+    "wd": "Q25559637",
+    "label": "Chan Santa Cruz Maya",
+    "iso6393": [
+      "yus"
+    ]
+  },
+  {
+    "wd": "Q25559638",
+    "label": "South Central Cakchiquel",
+    "iso6393": [
+      "ckd"
+    ]
+  },
+  {
+    "wd": "Q25559647",
+    "label": "Eastern Cakchiquel",
+    "iso6393": [
+      "cke"
+    ]
+  },
+  {
+    "wd": "Q25559649",
+    "label": "Southern Cakchiquel",
+    "iso6393": [
+      "ckf"
+    ]
+  },
+  {
+    "wd": "Q25559650",
+    "label": "Acatenango Southwestern Cakchiquel",
+    "iso6393": [
+      "ckk"
+    ]
+  },
+  {
     "wd": "Q25559652",
     "label": "Skagit",
     "iso6393": [
       "ska"
+    ]
+  },
+  {
+    "wd": "Q25559653",
+    "label": "Western Cakchiquel",
+    "iso6393": [
+      "ckw"
     ]
   },
   {
@@ -60285,6 +62269,13 @@
     ]
   },
   {
+    "wd": "Q27921265",
+    "label": "Loup A",
+    "iso6393": [
+      "xlo"
+    ]
+  },
+  {
     "wd": "Q27921409",
     "label": "Khlor",
     "iso6393": [
@@ -60467,6 +62458,14 @@
     "label": "West Bengal Sign Language",
     "iso6393": [
       "wbs"
+    ]
+  },
+  {
+    "wd": "Q32174903",
+    "label": "Zamboanga Chavacano",
+    "wmCode": [
+      "cbk-x-zam",
+      "cbk-zam"
     ]
   },
   {
@@ -60659,6 +62658,20 @@
     ]
   },
   {
+    "wd": "Q39132549",
+    "label": "Tatar in Cyrillic script",
+    "wmCode": [
+      "tt-cyrl"
+    ]
+  },
+  {
+    "wd": "Q39134544",
+    "label": "Tatar in Latin script",
+    "wmCode": [
+      "tt-latn"
+    ]
+  },
+  {
     "wd": "Q39868240",
     "label": "Haiphong Sign Language",
     "iso6393": [
@@ -60740,13 +62753,6 @@
     "label": "Northwestern Nisu",
     "iso6393": [
       "nsf"
-    ]
-  },
-  {
-    "wd": "Q42330115",
-    "label": "Tukumanféd",
-    "iso6393": [
-      "tkf"
     ]
   },
   {
@@ -60912,9 +62918,12 @@
   },
   {
     "wd": "Q48767781",
-    "label": "Old Hindi",
+    "label": "Old Hindustani",
     "wmCode": [
       "inc-ohi"
+    ],
+    "iso6393": [
+      "ohi"
     ]
   },
   {
@@ -60936,6 +62945,13 @@
     "label": "Belnəng",
     "iso6393": [
       "glb"
+    ]
+  },
+  {
+    "wd": "Q48897247",
+    "label": "Minqing dialect",
+    "iso6396": [
+      "mqig"
     ]
   },
   {
@@ -61100,8 +63116,15 @@
     ]
   },
   {
+    "wd": "Q54801970",
+    "label": "indigenous languages of South America",
+    "iso6392": [
+      "sai"
+    ]
+  },
+  {
     "wd": "Q55218915",
-    "label": "Dongolawi",
+    "label": "النوبية الدنقلاوية",
     "iso6393": [
       "dgl"
     ]
@@ -61170,6 +63193,14 @@
     "label": "Proto-Brythonic",
     "wmCode": [
       "cel-bry-pro"
+    ]
+  },
+  {
+    "wd": "Q56649449",
+    "label": "Latin American Spanish",
+    "native": "español de América Latina",
+    "wmCode": [
+      "es-419"
     ]
   },
   {
@@ -61419,7 +63450,7 @@
   },
   {
     "wd": "Q62664215",
-    "label": "Eastern Bontok",
+    "label": "Finallig",
     "iso6393": [
       "ebk"
     ]
@@ -61517,7 +63548,7 @@
   },
   {
     "wd": "Q63257803",
-    "label": "Central Bontok",
+    "label": "Finontok",
     "iso6393": [
       "lbk"
     ]
@@ -61685,7 +63716,7 @@
   },
   {
     "wd": "Q63311016",
-    "label": "Northern Bontok",
+    "label": "Sinadanga",
     "iso6393": [
       "rbk"
     ]
@@ -61894,6 +63925,194 @@
     ]
   },
   {
+    "wd": "Q64362980",
+    "label": "Adyghe in Cyrillic script",
+    "wmCode": [
+      "ady-cyrl"
+    ]
+  },
+  {
+    "wd": "Q64362981",
+    "label": "Tunisian Arabic in Arabic script",
+    "native": "دارجة تونسية",
+    "wmCode": [
+      "aeb-arab"
+    ]
+  },
+  {
+    "wd": "Q64362982",
+    "label": "Tunisian Arabic in Latin script",
+    "wmCode": [
+      "aeb-latn"
+    ]
+  },
+  {
+    "wd": "Q64362983",
+    "label": "Batak Toba in Latin script",
+    "wmCode": [
+      "bbc-latn"
+    ]
+  },
+  {
+    "wd": "Q64362984",
+    "label": "Goan Konkani in Devanagari script",
+    "wmCode": [
+      "gom-deva"
+    ]
+  },
+  {
+    "wd": "Q64362985",
+    "label": "Goan Konkani in Latin script",
+    "wmCode": [
+      "gom-latn"
+    ]
+  },
+  {
+    "wd": "Q64362986",
+    "label": "Fiji Hindi in Latin script",
+    "wmCode": [
+      "hif-latn"
+    ]
+  },
+  {
+    "wd": "Q64362987",
+    "label": "Eastern Canadian Inuktut in Latin script",
+    "wmCode": [
+      "ike-latn"
+    ]
+  },
+  {
+    "wd": "Q64362989",
+    "label": "Kabardian in Cyrillic script",
+    "wmCode": [
+      "kbd-cyrl"
+    ]
+  },
+  {
+    "wd": "Q64362991",
+    "label": "Kazakh in Arabic script",
+    "wmCode": [
+      "kk-arab"
+    ]
+  },
+  {
+    "wd": "Q64362992",
+    "label": "Kazakh in Cyrillic script",
+    "wmCode": [
+      "kk-cyrl"
+    ]
+  },
+  {
+    "wd": "Q64362993",
+    "label": "Kazakh in Latin script",
+    "wmCode": [
+      "kk-latn"
+    ]
+  },
+  {
+    "wd": "Q64362994",
+    "label": "Kashmiri in Arabic script",
+    "wmCode": [
+      "ks-arab"
+    ]
+  },
+  {
+    "wd": "Q64362995",
+    "label": "Kashmiri in Devanagari script",
+    "wmCode": [
+      "ks-deva"
+    ]
+  },
+  {
+    "wd": "Q64362996",
+    "label": "Kurdish in Arabic script",
+    "wmCode": [
+      "ku-arab"
+    ]
+  },
+  {
+    "wd": "Q64362997",
+    "label": "Kurdish in Latin script",
+    "wmCode": [
+      "ku-latn"
+    ]
+  },
+  {
+    "wd": "Q64362998",
+    "label": "Megleno-Romanian in Cyrillic script",
+    "wmCode": [
+      "ruq-cyrl"
+    ]
+  },
+  {
+    "wd": "Q64362999",
+    "label": "Megleno-Romanian in Latin script",
+    "wmCode": [
+      "ruq-latn"
+    ]
+  },
+  {
+    "wd": "Q64363000",
+    "label": "Tachelhit in Latin script",
+    "native": "Taclḥit",
+    "wmCode": [
+      "shi-latn"
+    ]
+  },
+  {
+    "wd": "Q64363001",
+    "label": "Tachelhit in Tifinagh script",
+    "native": "ⵜⴰⵛⵍⵃⵉⵜ",
+    "wmCode": [
+      "shi-tfng"
+    ]
+  },
+  {
+    "wd": "Q64363002",
+    "label": "Shawiya in Latin script",
+    "wmCode": [
+      "shy-latn"
+    ]
+  },
+  {
+    "wd": "Q64363004",
+    "label": "Tajik in Cyrillic script",
+    "native": "забони форсии тоҷикӣ",
+    "wmCode": [
+      "tg-cyrl"
+    ]
+  },
+  {
+    "wd": "Q64363005",
+    "label": "Tajik in Latin script",
+    "native": "zaboni toçikī",
+    "wmCode": [
+      "tg-latn"
+    ]
+  },
+  {
+    "wd": "Q64363006",
+    "label": "Uzbek in Cyrillic script",
+    "wmCode": [
+      "uz-cyrl"
+    ]
+  },
+  {
+    "wd": "Q64363007",
+    "label": "Uzbek in Latin script",
+    "native": "Oʻzbek tili",
+    "wmCode": [
+      "uz-latn"
+    ]
+  },
+  {
+    "wd": "Q64427341",
+    "label": "formal address in German",
+    "wmCode": [
+      "de-formal"
+    ]
+  },
+  {
     "wd": "Q64427343",
     "label": "Spanish (formal address)",
     "wmCode": [
@@ -61901,10 +64120,31 @@
     ]
   },
   {
+    "wd": "Q64427344",
+    "label": "simplified Gan",
+    "wmCode": [
+      "gan-hans"
+    ]
+  },
+  {
+    "wd": "Q64427346",
+    "label": "traditional Gan",
+    "wmCode": [
+      "gan-hant"
+    ]
+  },
+  {
     "wd": "Q64427347",
     "label": "formal Hungarian",
     "wmCode": [
       "hu-formal"
+    ]
+  },
+  {
+    "wd": "Q64427348",
+    "label": "Eastern Canadian Inuktut in Aboriginal syllabics",
+    "wmCode": [
+      "ike-cans"
     ]
   },
   {
@@ -62111,6 +64351,27 @@
     ]
   },
   {
+    "wd": "Q84302019",
+    "label": "Southern Pinghua",
+    "iso6393": [
+      "csp"
+    ]
+  },
+  {
+    "wd": "Q84302463",
+    "label": "Northern Pinghua",
+    "iso6393": [
+      "cnp"
+    ]
+  },
+  {
+    "wd": "Q85516014",
+    "label": "Aari-Gayil",
+    "iso6393": [
+      "aiz"
+    ]
+  },
+  {
     "wd": "Q85760309",
     "label": "Faifi",
     "iso6393": [
@@ -62154,6 +64415,20 @@
     ]
   },
   {
+    "wd": "Q94989582",
+    "label": "Kyrgyz in Cyrillic script",
+    "wmCode": [
+      "ky-cyrl"
+    ]
+  },
+  {
+    "wd": "Q95397566",
+    "label": "Kyrgyz Arabic alphabet",
+    "wmCode": [
+      "ky-arab"
+    ]
+  },
+  {
     "wd": "Q96400333",
     "label": "Proto-Uto-Aztecan",
     "wmCode": [
@@ -62165,6 +64440,50 @@
     "label": "Proto-Malayic",
     "wmCode": [
       "poz-mly-pro"
+    ]
+  },
+  {
+    "wd": "Q98437243",
+    "label": "Minhou Dialect",
+    "iso6396": [
+      "mnhu"
+    ]
+  },
+  {
+    "wd": "Q98437826",
+    "label": "Daiyunshan dialect",
+    "iso6396": [
+      "diyu"
+    ]
+  },
+  {
+    "wd": "Q98437831",
+    "iso6396": [
+      "yuxi"
+    ]
+  },
+  {
+    "wd": "Q98437872",
+    "iso6396": [
+      "ygti"
+    ]
+  },
+  {
+    "wd": "Q98438047",
+    "iso6396": [
+      "pign"
+    ]
+  },
+  {
+    "wd": "Q98438107",
+    "iso6396": [
+      "luya"
+    ]
+  },
+  {
+    "wd": "Q98438114",
+    "iso6396": [
+      "pgta"
     ]
   },
   {
@@ -62344,10 +64663,108 @@
     ]
   },
   {
+    "wd": "Q107526440",
+    "label": "Malay in Jawi script",
+    "native": "بهاس ملايو",
+    "wmCode": [
+      "ms-arab"
+    ]
+  },
+  {
+    "wd": "Q107526557",
+    "label": "Talysh in Cyrillic script",
+    "wmCode": [
+      "tly-cyrl"
+    ]
+  },
+  {
+    "wd": "Q107530022",
+    "label": "Osage in Latin script",
+    "wmCode": [
+      "osa-latn"
+    ]
+  },
+  {
+    "wd": "Q107530457",
+    "label": "Balinese in Balinese script",
+    "wmCode": [
+      "ban-bali"
+    ]
+  },
+  {
+    "wd": "Q107530840",
+    "label": "Chakma in Bengali script",
+    "native": "𑄌𑄋𑄴𑄟𑄳𑄦 𑄞𑄌𑄴",
+    "wmCode": [
+      "ccp-beng"
+    ]
+  },
+  {
     "wd": "Q107548681",
     "label": "Noakhailla",
+    "wmCode": [
+      "oak"
+    ],
     "iso6393": [
       "oak"
+    ]
+  },
+  {
+    "wd": "Q107549714",
+    "label": "Sylheti in Bengali-Assamese script",
+    "wmCode": [
+      "syl-beng"
+    ]
+  },
+  {
+    "wd": "Q107549766",
+    "label": "Azerbaijani in Cyrillic script",
+    "wmCode": [
+      "az-cyrl"
+    ]
+  },
+  {
+    "wd": "Q107549870",
+    "label": "Sumerian in Latin script",
+    "wmCode": [
+      "sux-latn"
+    ]
+  },
+  {
+    "wd": "Q107550055",
+    "label": "Santali in Bengali script",
+    "native": "সাঁওতালি",
+    "wmCode": [
+      "sat-beng"
+    ]
+  },
+  {
+    "wd": "Q107550940",
+    "label": "Klingon in pIqaD",
+    "wmCode": [
+      "tlh-piqd"
+    ]
+  },
+  {
+    "wd": "Q107550949",
+    "label": "Klingon in Okrand notation",
+    "wmCode": [
+      "tlh-latn"
+    ]
+  },
+  {
+    "wd": "Q107557467",
+    "label": "Crimean Tatar in Cyrillic script",
+    "wmCode": [
+      "crh-cyrl"
+    ]
+  },
+  {
+    "wd": "Q107557485",
+    "label": "Crimean Tatar in Latin script",
+    "native": "qırımtatarca",
+    "wmCode": [
+      "crh-latn"
     ]
   },
   {
@@ -62423,6 +64840,13 @@
     ]
   },
   {
+    "wd": "Q111326242",
+    "label": "Southern Hindko",
+    "iso6393": [
+      "hnd"
+    ]
+  },
+  {
     "wd": "Q111360885",
     "label": "Dawik Kui",
     "iso6393": [
@@ -62472,6 +64896,27 @@
     ]
   },
   {
+    "wd": "Q112670533",
+    "label": "Lahnda",
+    "iso6393": [
+      "lah"
+    ]
+  },
+  {
+    "wd": "Q112812073",
+    "label": "Northern Hindko",
+    "iso6393": [
+      "hno"
+    ]
+  },
+  {
+    "wd": "Q113406611",
+    "label": "Saraiki Shahmukhi",
+    "wmCode": [
+      "skr"
+    ]
+  },
+  {
     "wd": "Q113559926",
     "label": "Old Bengali",
     "wmCode": [
@@ -62483,6 +64928,13 @@
     "label": "Indian Sign Language",
     "iso6393": [
       "ins"
+    ]
+  },
+  {
+    "wd": "Q113819406",
+    "label": "Akkadian in Latin Script",
+    "wmCode": [
+      "akk-latn"
     ]
   },
   {
@@ -62518,6 +64970,20 @@
     "label": "Proto-Siouan",
     "wmCode": [
       "sio-pro"
+    ]
+  },
+  {
+    "wd": "Q115270971",
+    "label": "Old Punjabi",
+    "wmCode": [
+      "inc-opa"
+    ]
+  },
+  {
+    "wd": "Q115614914",
+    "label": "Tunen",
+    "iso6393": [
+      "baz"
     ]
   },
   {
@@ -62626,10 +65092,31 @@
     ]
   },
   {
+    "wd": "Q117674271",
+    "label": "Hittite in Latin Script",
+    "wmCode": [
+      "hit-latn"
+    ]
+  },
+  {
+    "wd": "Q120142383",
+    "label": "Sylheti in Latin script",
+    "wmCode": [
+      "syl-latn"
+    ]
+  },
+  {
     "wd": "Q121627627",
     "label": "Chuanqiandian Cluster Miao",
     "iso6393": [
       "cqd"
+    ]
+  },
+  {
+    "wd": "Q122586083",
+    "label": "Kulon-Pazeh",
+    "iso6393": [
+      "uun"
     ]
   },
   {
@@ -62648,6 +65135,24 @@
     ]
   },
   {
+    "wd": "Q123474569",
+    "label": "Standard Malay",
+    "native": "bahasa Melayu Standard",
+    "wmCode": [
+      "zsm"
+    ],
+    "iso6393": [
+      "zsm"
+    ]
+  },
+  {
+    "wd": "Q123848480",
+    "label": "Sylheti in Devanagari script",
+    "wmCode": [
+      "syl-deva"
+    ]
+  },
+  {
     "wd": "Q123964178",
     "label": "Muslim Tat",
     "iso6393": [
@@ -62659,6 +65164,20 @@
     "label": "Epi-Olmec",
     "iso6393": [
       "xep"
+    ]
+  },
+  {
+    "wd": "Q124987962",
+    "label": "Paku-Mobwa Karen",
+    "iso6393": [
+      "kpp"
+    ]
+  },
+  {
+    "wd": "Q125258960",
+    "label": "Belgian German",
+    "wmCode": [
+      "de-be"
     ]
   },
   {
@@ -62718,6 +65237,120 @@
     "label": "Classical Persian",
     "wmCode": [
       "fa-cls"
+    ]
+  },
+  {
+    "wd": "Q134706143",
+    "label": "Yaghnobi Cyrillic alphabet",
+    "native": "яғнобӣ зивок",
+    "wmCode": [
+      "yai-cyrl"
+    ]
+  },
+  {
+    "wd": "Q134706150",
+    "label": "Yaghnobi Latin alphabet",
+    "native": "yaγnobīˊ zivók",
+    "wmCode": [
+      "yai-latn"
+    ]
+  },
+  {
+    "wd": "Q135153564",
+    "label": "Pontic Scythian language",
+    "iso6393": [
+      "xsc"
+    ]
+  },
+  {
+    "wd": "Q135183505",
+    "label": "Wakhi in Cyrillic",
+    "native": "Х̌ик зик",
+    "wmCode": [
+      "wbl-cyrl"
+    ]
+  },
+  {
+    "wd": "Q135183554",
+    "label": "Wakhi in Latin script",
+    "native": "x̌ik zik",
+    "wmCode": [
+      "wbl-latn"
+    ]
+  },
+  {
+    "wd": "Q135183640",
+    "label": "Wakhi in Arab script",
+    "native": "ښيک ﺯيک",
+    "wmCode": [
+      "wbl-arab"
+    ]
+  },
+  {
+    "wd": "Q135196765",
+    "label": "Shughni in Cyrillic",
+    "native": "хуг̌ну̊ни зив",
+    "wmCode": [
+      "sgh-cyrl"
+    ]
+  },
+  {
+    "wd": "Q135196768",
+    "label": "Shughni in Latin script",
+    "native": "xuɣ̌nůni ziv",
+    "wmCode": [
+      "sgh-latn"
+    ]
+  },
+  {
+    "wd": "Q135196777",
+    "label": "Shughni in Arabic script",
+    "wmCode": [
+      "sgh-arab"
+    ]
+  },
+  {
+    "wd": "Q135415035",
+    "label": "Yazghulami in Cyrillic",
+    "wmCode": [
+      "yah-cyrl"
+    ]
+  },
+  {
+    "wd": "Q135415037",
+    "label": "Yazghulami in Latin script",
+    "wmCode": [
+      "yah-latn"
+    ]
+  },
+  {
+    "wd": "Q135415260",
+    "label": "Ishkashimi in Cyrillic",
+    "wmCode": [
+      "isk-cyrl"
+    ]
+  },
+  {
+    "wd": "Q135415262",
+    "label": "Ishkashimi in Latin script",
+    "wmCode": [
+      "isk-latn"
+    ]
+  },
+  {
+    "wd": "Q135649099",
+    "label": "Standard Tajik",
+    "native": "забони адабӣ",
+    "iso6393": [
+      "tgk"
+    ]
+  },
+  {
+    "wd": "Q135972638",
+    "label": "Tachelhit in Arabic script",
+    "native": "تاشلحیت",
+    "wmCode": [
+      "shi-arab"
     ]
   }
 ]
