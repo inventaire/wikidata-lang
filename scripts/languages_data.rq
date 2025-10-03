@@ -1,5 +1,5 @@
 SELECT ?wd ?wmCode ?iso6391 ?iso6392 ?iso6393 ?iso6396 ?native ?label {
-  VALUES (?language_type) { (wd:Q34770) (wd:Q25295) }
+  VALUES (?language_type) { (wd:Q34770) (wd:Q25295) (wd:Q34770) (wd:Q1288568) (wd:Q38058796) (wd:Q45762) (wd:Q33384) (wd:Q33742) (wd:Q34228) (wd:Q436240) (wd:Q2315359) (wd:Q315) (wd:Q33215) (wd:Q838296) (wd:Q2519134) (wd:Q17376908) (wd:Q838296) (wd:Q1149626) (wd:Q1208380) (wd:Q152559) (wd:Q33289) (wd:Q399495) (wd:Q43091) (wd:Q64362969) (wd:Q839470) }
   ?wd wdt:P31/wdt:P279* ?language_type
 
   { ?wd wdt:P218 ?iso6391 . } UNION
