@@ -39,7 +39,8 @@
   "homepage": "https://github.com/inventaire/wikidata-lang#readme",
   "devDependencies": {
     "mocha": "^9.1.3",
-    "should": "^13.2.3"
+    "should": "^13.2.3",
+    "wikibase-cli": "^19.0.1"
   },
   "directories": {
     "lib": "lib",
